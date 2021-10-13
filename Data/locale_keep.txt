@@ -1,0 +1,2098 @@
+{
+  "array" : [
+    "array" : [
+      "string" : "0_pct",
+      "id" : "Song Start",
+    ],
+    "array" : [
+      "string" : "100_pct",
+      "id" : "Song End",
+    ],
+    "array" : [
+      "string" : "1_place",
+      "id" : "1st",
+    ],
+    "array" : [
+      "string" : "1_place_tie",
+      "id" : "1st <tie>",
+    ],
+    "array" : [
+      "string" : "25_pct",
+      "id" : "25%% Completed",
+    ],
+    "array" : [
+      "string" : "2_place",
+      "id" : "2nd",
+    ],
+    "array" : [
+      "string" : "2_place_tie",
+      "id" : "2nd <tie>",
+    ],
+    "array" : [
+      "string" : "3_place",
+      "id" : "3rd",
+    ],
+    "array" : [
+      "string" : "3_place_tie",
+      "id" : "3rd <tie>",
+    ],
+    "array" : [
+      "string" : "4_place",
+      "id" : "4th",
+    ],
+    "array" : [
+      "string" : "4_place_tie",
+      "id" : "4th <tie>",
+    ],
+    "array" : [
+      "string" : "50_pct",
+      "id" : "50%% Completed",
+    ],
+    "array" : [
+      "string" : "75_pct",
+      "id" : "75%% Completed",
+    ],
+    "array" : [
+      "string" : "amplitude_os",
+      "id" : "AMPLITUDE OS",
+    ],
+    "array" : [
+      "string" : "av_desc",
+      "id" : "Calibrate Audio/Video",
+    ],
+    "array" : [
+      "string" : "av_offset_milliseconds",
+      "id" : "OFFSET IN MILLISECONDS: %d",
+    ],
+    "array" : [
+      "string" : "back",
+      "id" : "Back",
+    ],
+    "array" : [
+      "string" : "backer_banner_body",
+      "id" : "Thanks for your support!",
+    ],
+    "array" : [
+      "string" : "backer_banner_title",
+      "id" : "Backer detected",
+    ],
+    "array" : [
+      "string" : "backer_banner_unlock",
+      "id" : "Nanoblaster unlocked: Twista
+Song unlocked: Do Not Retreat",
+    ],
+    "array" : [
+      "string" : "bass",
+      "id" : "BASS",
+    ],
+    "array" : [
+      "string" : "begin_stage",
+      "id" : "Begin Stage",
+    ],
+    "array" : [
+      "string" : "blaster_continue",
+      "id" : "Press X To Continue",
+    ],
+    "array" : [
+      "string" : "blaster_ready",
+      "id" : "Ready!",
+    ],
+    "array" : [
+      "string" : "boss_countdown",
+      "id" : "%.01f",
+    ],
+    "array" : [
+      "string" : "boss_gate_distance",
+      "id" : "Barrier
+Distance",
+    ],
+    "array" : [
+      "string" : "boss_gate_failure",
+      "id" : "!! STREAK MISSED
+!! ENERGY LOST",
+    ],
+    "array" : [
+      "string" : "boss_gate_success",
+      "id" : "// STREAK ACHIEVED
+// ENERGY RESTORED",
+    ],
+    "array" : [
+      "string" : "boss_intro_warning",
+      "id" : "!! WARNING!
+!! STREAK THROUGH BARRIER",
+    ],
+    "array" : [
+      "string" : "boss_streak",
+      "id" : "x%d/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "boss_streak_0",
+      "id" : "x0/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "boss_streak_1",
+      "id" : "x1/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "boss_streak_2",
+      "id" : "x2/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "boss_streak_3",
+      "id" : "x3/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "boss_streak_4",
+      "id" : "x4/x2
+STREAK",
+    ],
+    "array" : [
+      "string" : "calibration",
+      "id" : "Calibration",
+    ],
+    "array" : [
+      "string" : "calibration_bounce",
+      "id" : "// Bounce",
+    ],
+    "array" : [
+      "string" : "calibration_dpad_help",
+      "id" : "The beep should be heard when the boxes align.
+Adjust video offset if they are out of sync.",
+    ],
+    "array" : [
+      "string" : "calibration_earlier",
+      "id" : "Video earlier",
+    ],
+    "array" : [
+      "string" : "calibration_help",
+      "id" : "// Synchronize your audio/video signals",
+    ],
+    "array" : [
+      "string" : "calibration_info",
+      "id" : "The boxes should overlap at the same time the beep is heard.
+
+Adjust the offset until the overlap and the beep are synchronized.",
+    ],
+    "array" : [
+      "string" : "calibration_later",
+      "id" : "Video later",
+    ],
+    "array" : [
+      "string" : "calibration_overlap",
+      "id" : "// Overlap",
+    ],
+    "array" : [
+      "string" : "campaign_end_desc",
+      "id" : "// Scans indicate synesthetic perception levels significantly beyond projected maximum human capacity",
+    ],
+    "array" : [
+      "string" : "campaign_end_info_panel",
+      "id" : "Traversal of neural pathways has resulted in induction of synesthesia.
+
+User displays multi-sensory stimulation levels beyond standard human capacity.
+
+Patient remains comatose.
+
+Restore all ancillary pathways to revive patient.",
+    ],
+    "array" : [
+      "string" : "campaign_end_main",
+      "id" : "// Cognitive function not fully restored",
+    ],
+    "array" : [
+      "string" : "campaign_end_title",
+      "id" : "Patient Status",
+    ],
+    "array" : [
+      "string" : "campaign_is_downloading",
+      "id" : "Campaign content is currently downloading from PlayStation(TM)Network.",
+    ],
+    "array" : [
+      "string" : "campaign_leaderboard_label",
+      "id" : "CAMPAIGN RANK: %s",
+    ],
+    "array" : [
+      "string" : "campaign_title",
+      "id" : "CAMPAIGN",
+    ],
+    "array" : [
+      "string" : "change_mode",
+      "id" : "CHANGE MULTIPLAYER MODE",
+    ],
+    "array" : [
+      "string" : "checkpoint_bonus",
+      "id" : "CHECKPOINT
+BONUS",
+    ],
+    "array" : [
+      "string" : "checkpoint_threshold_1",
+      "id" : "// Checkpoint threshold alpha. Begin traversal.",
+    ],
+    "array" : [
+      "string" : "checkpoint_threshold_2",
+      "id" : "// Checkpoint threshold bravo. Continue traversal.",
+    ],
+    "array" : [
+      "string" : "checkpoint_threshold_3",
+      "id" : "// Checkpoint threshold charlie. Continue traversal.",
+    ],
+    "array" : [
+      "string" : "checkpoint_threshold_4",
+      "id" : "// Checkpoint threshold delta. Continue traversal.",
+    ],
+    "array" : [
+      "string" : "checkpoint_threshold_5",
+      "id" : "// Checkpoint threshold echo. End traversal.",
+    ],
+    "array" : [
+      "string" : "color_desc",
+      "id" : "// Nanoblaster",
+    ],
+    "array" : [
+      "string" : "configure_desc",
+      "id" : "Change Controls",
+    ],
+    "array" : [
+      "string" : "configure_help",
+      "id" : "// Select  optimal control paradigm.",
+    ],
+    "array" : [
+      "string" : "configure_title",
+      "id" : "Change Controls",
+    ],
+    "array" : [
+      "string" : "confirm",
+      "id" : "confirm",
+    ],
+    "array" : [
+      "string" : "connect_to_download",
+      "id" : "Connect to PlayStation(TM)Network to download this content.",
+    ],
+    "array" : [
+      "string" : "connect_to_join",
+      "id" : "Connect to join",
+    ],
+    "array" : [
+      "string" : "continue",
+      "id" : "continue",
+    ],
+    "array" : [
+      "string" : "continue_campaign",
+      "id" : "Continue",
+    ],
+    "array" : [
+      "string" : "credits",
+      "id" : "Credits",
+    ],
+    "array" : [
+      "string" : "credits_additional_art",
+      "id" : "Additional Art",
+    ],
+    "array" : [
+      "string" : "credits_and_our_backers",
+      "id" : "And OUR BACKERS!!!",
+    ],
+    "array" : [
+      "string" : "credits_art",
+      "id" : "Art",
+    ],
+    "array" : [
+      "string" : "credits_art_lead",
+      "id" : "Art Lead",
+    ],
+    "array" : [
+      "string" : "credits_audio",
+      "id" : "Audio",
+    ],
+    "array" : [
+      "string" : "credits_audio_lead",
+      "id" : "Audio Lead",
+    ],
+    "array" : [
+      "string" : "credits_code_lead",
+      "id" : "Code Lead",
+    ],
+    "array" : [
+      "string" : "credits_creative_director",
+      "id" : "Creative Lead",
+    ],
+    "array" : [
+      "string" : "credits_design",
+      "id" : "Design",
+    ],
+    "array" : [
+      "string" : "credits_design_lead",
+      "id" : "Design Lead",
+    ],
+    "array" : [
+      "string" : "credits_harmonix_music_systems_inc",
+      "id" : "Harmonix Music Systems, Inc.",
+    ],
+    "array" : [
+      "string" : "credits_help",
+      "id" : "// Amplitude OS Development Team and Financiers",
+    ],
+    "array" : [
+      "string" : "credits_lead_producer",
+      "id" : "Development Lead",
+    ],
+    "array" : [
+      "string" : "credits_programming",
+      "id" : "Programming",
+    ],
+    "array" : [
+      "string" : "credits_project_management",
+      "id" : "Project Management",
+    ],
+    "array" : [
+      "string" : "credits_publishing",
+      "id" : "Publishing",
+    ],
+    "array" : [
+      "string" : "credits_qa_lead",
+      "id" : "QA Lead",
+    ],
+    "array" : [
+      "string" : "credits_quality_assurance",
+      "id" : "Quality Assurance",
+    ],
+    "array" : [
+      "string" : "credits_thanks_for_playing",
+      "id" : "Thanks for Playing!",
+    ],
+    "array" : [
+      "string" : "credits_title",
+      "id" : "Amplitude Credits",
+    ],
+    "array" : [
+      "string" : "credits_user_research",
+      "id" : "User Research",
+    ],
+    "array" : [
+      "string" : "current_user",
+      "id" : "// current user",
+    ],
+    "array" : [
+      "string" : "difficulty",
+      "id" : "Difficulty",
+    ],
+    "array" : [
+      "string" : "difficulty_desc",
+      "id" : "// Difficulty",
+    ],
+    "array" : [
+      "string" : "disconnect_title",
+      "id" : "Wireless Controller Disconnected!",
+    ],
+    "array" : [
+      "string" : "drums",
+      "id" : "DRUMS",
+    ],
+    "array" : [
+      "string" : "elite_leaderboards",
+      "id" : "ELITE",
+    ],
+    "array" : [
+      "string" : "end_artist",
+      "id" : "Artist: %s",
+    ],
+    "array" : [
+      "string" : "end_best",
+      "id" : "Previous Best",
+    ],
+    "array" : [
+      "string" : "end_bpm",
+      "id" : "%d BPM",
+    ],
+    "array" : [
+      "string" : "end_completed",
+      "id" : "%d%% Completed",
+    ],
+    "array" : [
+      "string" : "end_continue",
+      "id" : "Continue",
+    ],
+    "array" : [
+      "string" : "end_difficulty",
+      "id" : "%s",
+    ],
+    "array" : [
+      "string" : "end_exit",
+      "id" : "Exit",
+    ],
+    "array" : [
+      "string" : "end_high_hotstreak",
+      "id" : "%d",
+    ],
+    "array" : [
+      "string" : "end_high_score",
+      "id" : "%d",
+    ],
+    "array" : [
+      "string" : "end_high_tto",
+      "id" : "%d%%",
+    ],
+    "array" : [
+      "string" : "end_hotstreak",
+      "id" : "%d",
+    ],
+    "array" : [
+      "string" : "end_label_award",
+      "id" : "Award",
+    ],
+    "array" : [
+      "string" : "end_label_hotstreak",
+      "id" : "Longest Streak",
+    ],
+    "array" : [
+      "string" : "end_label_rating",
+      "id" : "Rating",
+    ],
+    "array" : [
+      "string" : "end_label_score",
+      "id" : "Score",
+    ],
+    "array" : [
+      "string" : "end_label_tto",
+      "id" : "Sequences Cleared",
+    ],
+    "array" : [
+      "string" : "end_player_rank",
+      "id" : "%s: %s",
+    ],
+    "array" : [
+      "string" : "end_play_again",
+      "id" : "Play Again",
+    ],
+    "array" : [
+      "string" : "end_region_bonus",
+      "id" : "// Bonus Songs",
+    ],
+    "array" : [
+      "string" : "end_region_frontal",
+      "id" : "// Prefrontal Cortex, Region 1 of 3",
+    ],
+    "array" : [
+      "string" : "end_region_limbic",
+      "id" : "// Limbic System, Region 3 of 3",
+    ],
+    "array" : [
+      "string" : "end_region_temporal",
+      "id" : "// Temporal Lobe, Region 2 of 3",
+    ],
+    "array" : [
+      "string" : "end_score",
+      "id" : "%d",
+    ],
+    "array" : [
+      "string" : "end_song",
+      "id" : "%s",
+    ],
+    "array" : [
+      "string" : "end_song_help",
+      "id" : "// Neural pathway restoration successful",
+    ],
+    "array" : [
+      "string" : "end_song_select",
+      "id" : "Song Select",
+    ],
+    "array" : [
+      "string" : "end_song_title",
+      "id" : "Song Complete",
+    ],
+    "array" : [
+      "string" : "end_stage",
+      "id" : "End Stage",
+    ],
+    "array" : [
+      "string" : "end_tto",
+      "id" : "%d%%",
+    ],
+    "array" : [
+      "string" : "end_unlock",
+      "id" : "Upgrade Unlocked",
+    ],
+    "array" : [
+      "string" : "energy",
+      "id" : "Energy",
+    ],
+    "array" : [
+      "string" : "energy_warning",
+      "id" : "ENERGY CRITICAL!",
+    ],
+    "array" : [
+      "string" : "ffa_help",
+      "id" : "// Disconnect extra wireless controllers for optimal solo play",
+    ],
+    "array" : [
+      "string" : "ffa_title",
+      "id" : "Quickplay",
+    ],
+    "array" : [
+      "string" : "final_banner_body",
+      "id" : "// User has demonstrated total mastery of Amplitude",
+    ],
+    "array" : [
+      "string" : "final_banner_desc",
+      "id" : "Sedate Deployed in Final Pathway",
+    ],
+    "array" : [
+      "string" : "final_banner_title",
+      "id" : "Treatment Complete",
+    ],
+    "array" : [
+      "string" : "freq_mode_off",
+      "id" : "FreQ MODE OFF",
+    ],
+    "array" : [
+      "string" : "freq_mode_on",
+      "id" : "FreQ MODE ON",
+    ],
+    "array" : [
+      "string" : "fx",
+      "id" : "FX",
+    ],
+    "array" : [
+      "string" : "guitar",
+      "id" : "GUITAR",
+    ],
+    "array" : [
+      "string" : "helpbar_adjust_offset",
+      "id" : "adjust offset",
+    ],
+    "array" : [
+      "string" : "helpbar_cancel",
+      "id" : "cancel",
+    ],
+    "array" : [
+      "string" : "helpbar_change_difficulty",
+      "id" : "change difficulty",
+    ],
+    "array" : [
+      "string" : "helpbar_change_leaderboard",
+      "id" : "Change Leaderboard",
+    ],
+    "array" : [
+      "string" : "helpbar_restart_campaign",
+      "id" : "Restart Campaign",
+    ],
+    "array" : [
+      "string" : "helpbar_save_quit",
+      "id" : "Save Progress & Quit",
+    ],
+    "array" : [
+      "string" : "helpbar_scroll_speed",
+      "id" : "scroll speed",
+    ],
+    "array" : [
+      "string" : "info_header",
+      "id" : "// INFORMATION",
+    ],
+    "array" : [
+      "string" : "input_blitz",
+      "id" : "Blitz Style",
+    ],
+    "array" : [
+      "string" : "input_blitz_desc",
+      "id" : "Controls for users who prefer to move their Nanoblaster using the L1 and R1 buttons.",
+    ],
+    "array" : [
+      "string" : "input_center_capture",
+      "id" : "BLAST CENTER",
+    ],
+    "array" : [
+      "string" : "input_change_camera",
+      "id" : "Change Camera",
+    ],
+    "array" : [
+      "string" : "input_change_track",
+      "id" : "Move Blaster",
+    ],
+    "array" : [
+      "string" : "input_change_track_left",
+      "id" : "Move Left",
+    ],
+    "array" : [
+      "string" : "input_change_track_right",
+      "id" : "Move Right",
+    ],
+    "array" : [
+      "string" : "input_left_capture",
+      "id" : "BLAST LEFT",
+    ],
+    "array" : [
+      "string" : "input_left_dominant",
+      "id" : "Left Dominant",
+    ],
+    "array" : [
+      "string" : "input_left_dominant_desc",
+      "id" : "Default controls adjusted to favor the left hand.",
+    ],
+    "array" : [
+      "string" : "input_left_dominant_smart",
+      "id" : "Left Dominant Seek",
+    ],
+    "array" : [
+      "string" : "input_left_dominant_smart_desc",
+      "id" : "Variant of the default left hand controls, using Streak Seek as the primary movement style.",
+    ],
+    "array" : [
+      "string" : "input_mcgranahand",
+      "id" : "Upper Hand",
+    ],
+    "array" : [
+      "string" : "input_mcgranahand_desc",
+      "id" : "For users who prefer to blast left with L1 and blast right with R1.",
+    ],
+    "array" : [
+      "string" : "input_one_handed",
+      "id" : "One Handed",
+    ],
+    "array" : [
+      "string" : "input_one_handed_desc",
+      "id" : "Controls that allow users to play one handed with either hand, mirroring left and right inputs.",
+    ],
+    "array" : [
+      "string" : "input_powerup",
+      "id" : "Deploy Boost",
+    ],
+    "array" : [
+      "string" : "input_right_capture",
+      "id" : "BLAST RIGHT",
+    ],
+    "array" : [
+      "string" : "input_right_dominant",
+      "id" : "Right Dominant",
+    ],
+    "array" : [
+      "string" : "input_right_dominant_desc",
+      "id" : "The default Amplitude controls, favoring the right hand.",
+    ],
+    "array" : [
+      "string" : "input_right_dominant_smart",
+      "id" : "Right Dominant Seek",
+    ],
+    "array" : [
+      "string" : "input_right_dominant_smart_desc",
+      "id" : "Variant of the default controls, for users who prefer Streak Seek as the primary movement style.",
+    ],
+    "array" : [
+      "string" : "input_seek_track",
+      "id" : "Streak Seek",
+    ],
+    "array" : [
+      "string" : "input_seek_track_left",
+      "id" : "Seek Left",
+    ],
+    "array" : [
+      "string" : "input_seek_track_right",
+      "id" : "Seek Right",
+    ],
+    "array" : [
+      "string" : "input_slam_track",
+      "id" : "Streak Seek",
+    ],
+    "array" : [
+      "string" : "label_multiplier",
+      "id" : "STREAK",
+    ],
+    "array" : [
+      "string" : "label_revision",
+      "id" : "revision",
+    ],
+    "array" : [
+      "string" : "leaderboards_coop",
+      "id" : "Co-Op Leaderboard",
+    ],
+    "array" : [
+      "string" : "leaderboards_friends",
+      "id" : "FRIENDS",
+    ],
+    "array" : [
+      "string" : "leaderboards_friends_overall",
+      "id" : "TOTAL SCORE - FRIENDS",
+    ],
+    "array" : [
+      "string" : "leaderboards_label",
+      "id" : "Leaderboards",
+    ],
+    "array" : [
+      "string" : "leaderboards_multiplayer",
+      "id" : "MULTIPLAYER LEADERBOARD",
+    ],
+    "array" : [
+      "string" : "leaderboards_name",
+      "id" : "PLAYER NAME",
+    ],
+    "array" : [
+      "string" : "leaderboards_rank",
+      "id" : "RANK",
+    ],
+    "array" : [
+      "string" : "leaderboards_rivals",
+      "id" : "RIVALS",
+    ],
+    "array" : [
+      "string" : "leaderboards_rivals_overall",
+      "id" : "TOTAL SCORE - RIVALS",
+    ],
+    "array" : [
+      "string" : "leaderboards_score",
+      "id" : "SCORE / DIFFICULTY",
+    ],
+    "array" : [
+      "string" : "leaderboards_team",
+      "id" : "TEAM LEADERBOARD",
+    ],
+    "array" : [
+      "string" : "leaderboards_wins",
+      "id" : "WINS",
+    ],
+    "array" : [
+      "string" : "leaderboard_help",
+      "id" : "// View compiled performance data from all users",
+    ],
+    "array" : [
+      "string" : "loading_tip_01",
+      "id" : "// Reticulating splines",
+    ],
+    "array" : [
+      "string" : "loading_title",
+      "id" : "Initializing...",
+    ],
+    "array" : [
+      "string" : "logo_start_button",
+      "id" : "Press X To Begin",
+    ],
+    "array" : [
+      "string" : "logo_start_legal",
+      "id" : "Copyright 2016 Sony Computer Entertainment America LLC.
+Amplitude is a trademark of Sony Computer Entertainment America LLC.
+Harmonix and all related titles and logos are trademarks of Harmonix Music Systems, Inc.
+Unpacked, modded and repacked by Nortiest.",
+    ],
+    "array" : [
+      "string" : "main_help",
+      "id" : "// Welcome to the Amplitude OS",
+    ],
+    "array" : [
+      "string" : "main_title",
+      "id" : "Main Menu",
+    ],
+    "array" : [
+      "string" : "menu_campaign_desc",
+      "id" : "Choose Campaign to play through a 15-song concept album composed exclusively for Amplitude.
+
+Take a trip through the mind as you seek to awaken your comatose patient and expand her perceptions.",
+    ],
+    "array" : [
+      "string" : "menu_credits_desc",
+      "id" : "View the Credits to see the names of the development team and all of the backers who made this game possible!",
+    ],
+    "array" : [
+      "string" : "menu_options_desc",
+      "id" : "Visit Options to change your controls, calibrate your audio/video synchronization, replay training, or enable special modes of play.
+
+Information about Customer Support and the End User License Agreement can also be found here.",
+    ],
+    "array" : [
+      "string" : "menu_quickplay_desc",
+      "id" : "Select Quickplay to view the complete Amplitude song list.
+
+Play solo to compete for high scores on the leaderboards, or invite your friends to join you in team play and free-for-all competition.",
+    ],
+    "array" : [
+      "string" : "mp_label",
+      "id" : "Multiplayer",
+    ],
+    "array" : [
+      "string" : "multiplayer_banner_body",
+      "id" : "// In multiplayer, only the leader must streak continuously to maintain multiplier",
+    ],
+    "array" : [
+      "string" : "multiplayer_banner_desc",
+      "id" : "Maintaining a Lead",
+    ],
+    "array" : [
+      "string" : "multiplayer_rank",
+      "id" : "Rank",
+    ],
+    "array" : [
+      "string" : "multiplayer_winner",
+      "id" : "Winner",
+    ],
+    "array" : [
+      "string" : "multiplayer_wins",
+      "id" : "Multiplayer Wins",
+    ],
+    "array" : [
+      "string" : "multi_play_title",
+      "id" : "Results",
+    ],
+    "array" : [
+      "string" : "myrank_leaderboards",
+      "id" : "LEADERBOARD RANK: %s",
+    ],
+    "array" : [
+      "string" : "no",
+      "id" : "No",
+    ],
+    "array" : [
+      "string" : "none_leaderboards",
+      "id" : "NONE",
+    ],
+    "array" : [
+      "string" : "offline_leaderboards",
+      "id" : "LEADERBOARD (OFFLINE)",
+    ],
+    "array" : [
+      "string" : "offline_leaderboards_help",
+      "id" : "To access online leaderboards, you must be signed into PlayStation(TM)Network.",
+    ],
+    "array" : [
+      "string" : "options",
+      "id" : "Options",
+    ],
+    "array" : [
+      "string" : "options_eula_header",
+      "id" : "END USER LICENSE AGREEMENT",
+    ],
+    "array" : [
+      "string" : "options_eula_info",
+      "id" : "Downloading Amplitude and/or otherwise using the Amplitude software constitutes acceptance of the End User License Agreement available at:
+
+http://www.harmonixmusic.com/games/amplitude/eula",
+    ],
+    "array" : [
+      "string" : "options_help",
+      "id" : "// Customize system level tuning preferences",
+    ],
+    "array" : [
+      "string" : "options_support_header",
+      "id" : "CUSTOMER SUPPORT",
+    ],
+    "array" : [
+      "string" : "options_support_info",
+      "id" : "For customer support, FAQs, troubleshooting tips
+and more, go to:
+
+http://www.harmonixmusic.com/games/amplitude/support",
+    ],
+    "array" : [
+      "string" : "options_title",
+      "id" : "Options",
+    ],
+    "array" : [
+      "string" : "outro_region1_body",
+      "id" : "// Cognitive function has been restored in 1 of 3 affected regions",
+    ],
+    "array" : [
+      "string" : "outro_region2_body",
+      "id" : "// Cognitive function has been restored in 2 of 3 affected regions",
+    ],
+    "array" : [
+      "string" : "outro_region3_body",
+      "id" : "!! ALERT: Patient displaying intense synesthetic reaction",
+    ],
+    "array" : [
+      "string" : "outro_region_title",
+      "id" : "Region Complete",
+    ],
+    "array" : [
+      "string" : "overall_leaderboard_label",
+      "id" : "OVERALL RANK: %s",
+    ],
+    "array" : [
+      "string" : "pause",
+      "id" : "Pause",
+    ],
+    "array" : [
+      "string" : "percent_completed",
+      "id" : "%d%% Completed",
+    ],
+    "array" : [
+      "string" : "player_color_0",
+      "id" : "v1.1 \"RAVEN\"",
+    ],
+    "array" : [
+      "string" : "player_color_1",
+      "id" : "v0.9 \"CHUBS\"",
+    ],
+    "array" : [
+      "string" : "player_color_2",
+      "id" : "v0.4 \"BOXY\"",
+    ],
+    "array" : [
+      "string" : "player_color_3",
+      "id" : "v0.6 \"SHOGUN\"",
+    ],
+    "array" : [
+      "string" : "player_color_4",
+      "id" : "v1.0 \"TWISTA\"",
+    ],
+    "array" : [
+      "string" : "power_up_desc",
+      "id" : "// Boost Frequency",
+    ],
+    "array" : [
+      "string" : "press",
+      "id" : "press",
+    ],
+    "array" : [
+      "string" : "previous",
+      "id" : "previous",
+    ],
+    "array" : [
+      "string" : "progress_desc",
+      "id" : "// Current Progress",
+    ],
+    "array" : [
+      "string" : "progress_display_off",
+      "id" : "INTERSTITIALS OFF",
+    ],
+    "array" : [
+      "string" : "progress_display_on",
+      "id" : "INTERSTITIALS ON",
+    ],
+    "array" : [
+      "string" : "pup_hi",
+      "id" : "High",
+    ],
+    "array" : [
+      "string" : "pup_low",
+      "id" : "Low",
+    ],
+    "array" : [
+      "string" : "pup_off",
+      "id" : "None",
+    ],
+    "array" : [
+      "string" : "quickplay_title",
+      "id" : "Quickplay",
+    ],
+    "array" : [
+      "string" : "quit",
+      "id" : "Quit",
+    ],
+    "array" : [
+      "string" : "random_song",
+      "id" : "Random Song",
+    ],
+    "array" : [
+      "string" : "region_bonus",
+      "id" : "Region Bonus",
+    ],
+    "array" : [
+      "string" : "region_one",
+      "id" : "Prefrontal Cortex",
+    ],
+    "array" : [
+      "string" : "region_score",
+      "id" : "Region Score:",
+    ],
+    "array" : [
+      "string" : "region_three",
+      "id" : "Limbic System",
+    ],
+    "array" : [
+      "string" : "region_two",
+      "id" : "Temporal Lobe",
+    ],
+    "array" : [
+      "string" : "rematch",
+      "id" : "Rematch",
+    ],
+    "array" : [
+      "string" : "replay",
+      "id" : "Replay",
+    ],
+    "array" : [
+      "string" : "restart",
+      "id" : "Retry",
+    ],
+    "array" : [
+      "string" : "restart_desc",
+      "id" : "// Any current progress will be reset",
+    ],
+    "array" : [
+      "string" : "restart_no",
+      "id" : "No, Cancel",
+    ],
+    "array" : [
+      "string" : "restart_title",
+      "id" : "Restart Campaign?",
+    ],
+    "array" : [
+      "string" : "restart_yes",
+      "id" : "Yes, Restart",
+    ],
+    "array" : [
+      "string" : "resume",
+      "id" : "Resume",
+    ],
+    "array" : [
+      "string" : "retry",
+      "id" : "Retry",
+    ],
+    "array" : [
+      "string" : "save_file_name",
+      "id" : "Amplitude Saved Data",
+    ],
+    "array" : [
+      "string" : "sce_player_name",
+      "id" : "%s",
+    ],
+    "array" : [
+      "string" : "score",
+      "id" : "Score",
+    ],
+    "array" : [
+      "string" : "section_complete",
+      "id" : "SECTION %d",
+    ],
+    "array" : [
+      "string" : "skill_easy",
+      "id" : "BEGINNER",
+    ],
+    "array" : [
+      "string" : "skill_easy_short",
+      "id" : "B",
+    ],
+    "array" : [
+      "string" : "skill_exp",
+      "id" : "ADVANCED",
+    ],
+    "array" : [
+      "string" : "skill_exp_short",
+      "id" : "A",
+    ],
+    "array" : [
+      "string" : "skill_insane",
+      "id" : "EXPERT",
+    ],
+    "array" : [
+      "string" : "skill_insane_short",
+      "id" : "X",
+    ],
+    "array" : [
+      "string" : "skill_nightmare",
+      "id" : "SUPER",
+    ],
+    "array" : [
+      "string" : "skill_nightmare_short",
+      "id" : "S",
+    ],
+    "array" : [
+      "string" : "skill_norm",
+      "id" : "INTERMEDIATE",
+    ],
+    "array" : [
+      "string" : "skill_norm_short",
+      "id" : "I",
+    ],
+    "array" : [
+      "string" : "solo_play_help",
+      "id" : "// Configure sequence complexity and nanotech model",
+    ],
+    "array" : [
+      "string" : "solo_play_qp_help",
+      "id" : "// Connect wireless controllers for multiplayer",
+    ],
+    "array" : [
+      "string" : "solo_play_title",
+      "id" : "Quickplay",
+    ],
+    "array" : [
+      "string" : "song_allthetime",
+      "id" : "All the Time - C418",
+    ],
+    "array" : [
+      "string" : "song_artist",
+      "id" : "By %s",
+    ],
+    "array" : [
+      "string" : "song_assault_on",
+      "id" : "Assault on Psychofortress - Single White Infidel",
+    ],
+    "array" : [
+      "string" : "song_astrosight",
+      "id" : "Astrosight",
+    ],
+    "array" : [
+      "string" : "song_breakforme",
+      "id" : "Break For Me",
+    ],
+    "array" : [
+      "string" : "song_crazyride",
+      "id" : "Crazy Ride - Insomniac Games",
+    ],
+    "array" : [
+      "string" : "song_crystal",
+      "id" : "Crystal - George & Jonathan",
+    ],
+    "array" : [
+      "string" : "song_dalatecht",
+      "id" : "Dalatecht",
+    ],
+    "array" : [
+      "string" : "song_decode_me",
+      "id" : "Decode Me",
+    ],
+    "array" : [
+      "string" : "song_desc_allthetime",
+      "id" : "Minecraft composer C418 joins Amplitude with a new track.",
+    ],
+    "array" : [
+      "string" : "song_desc_assault_on",
+      "id" : "Written by RBN veteran & Kickstarter backer Jeff Webster.",
+    ],
+    "array" : [
+      "string" : "song_desc_astrosight",
+      "id" : "Region 2, Song 4 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_breakforme",
+      "id" : "Region 1, Bonus Song",
+    ],
+    "array" : [
+      "string" : "song_desc_cinematicdnb",
+      "id" : "Region 3, Song 4 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_crazy_ride",
+      "id" : "From Insomniac Games, celebrating their 20-year anniversary!",
+    ],
+    "array" : [
+      "string" : "song_desc_crystal",
+      "id" : "From the album George & Jonathan III.",
+    ],
+    "array" : [
+      "string" : "song_desc_dalatecht",
+      "id" : "Region 3, Song 4 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_decode_me",
+      "id" : "Region 2, Song 1 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_digitalparalysis",
+      "id" : "Region 3, Song 2 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_donot",
+      "id" : "A special song composed in honor of FreQuency's 10th birthday.",
+    ],
+    "array" : [
+      "string" : "song_desc_dreamer",
+      "id" : "Region 1, Song 3 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_energize",
+      "id" : "Region 3, Song 3 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_entomophobia",
+      "id" : "From Harmonix's music-driven shoot 'em up, A City Sleeps.",
+    ],
+    "array" : [
+      "string" : "song_desc_forcequit",
+      "id" : "A new tune from the acclaimed game composer and artist Jim Guthrie.",
+    ],
+    "array" : [
+      "string" : "song_desc_humanlove",
+      "id" : "Region 2, Song 3 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_impossible",
+      "id" : "As heard in Supergiant Games' action RPG Transistor.",
+    ],
+    "array" : [
+      "string" : "song_desc_iseeyou",
+      "id" : "Region 2, Song 2 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_lights",
+      "id" : "Contributed by indie artist and Kickstarter backer Wolfgun.",
+    ],
+    "array" : [
+      "string" : "song_desc_magpie",
+      "id" : "Region 2, Bonus Song",
+    ],
+    "array" : [
+      "string" : "song_desc_muze",
+      "id" : "From Ingrid Lukas' third album, Demimonde, remixed by Patrik Zosso and composer/pianist Nik Bärtsch.",
+    ],
+    "array" : [
+      "string" : "song_desc_necrodancer",
+      "id" : "As heard in Crypt of the Necrodancer from Brace Yourself Games.",
+    ],
+    "array" : [
+      "string" : "song_desc_offkilter",
+      "id" : "Region 2, Song 3 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_perfectbrain",
+      "id" : "Region 1, Song 1 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_phantoms",
+      "id" : "From fan favorites and Boston-based superstars, Freezepop.",
+    ],
+    "array" : [
+      "string" : "song_desc_recession",
+      "id" : "Region 1, Song 4 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_redgiant",
+      "id" : "Kodomo returns with a track from the Patterns & Light album.",
+    ],
+    "array" : [
+      "string" : "song_desc_secretsong",
+      "id" : "Final Bonus Song unlocked.",
+    ],
+    "array" : [
+      "string" : "song_desc_semiotic",
+      "id" : "From Symbion Project's album Semiotic.",
+    ],
+    "array" : [
+      "string" : "song_desc_supraspatial",
+      "id" : "Region 3, Song 1 of 4",
+    ],
+    "array" : [
+      "string" : "song_desc_synthesized",
+      "id" : "An old favorite, newly revitalized for the return of Amplitude.",
+    ],
+    "array" : [
+      "string" : "song_desc_synthesized2014",
+      "id" : "An old favorite, newly revitalized for the return of Amplitude.",
+    ],
+    "array" : [
+      "string" : "song_desc_unfinished",
+      "id" : "Written by Michiru Yamane for Skullgirls from Autumn Games.",
+    ],
+    "array" : [
+      "string" : "song_desc_wayfarer",
+      "id" : "Region 3, Bonus Song",
+    ],
+    "array" : [
+      "string" : "song_desc_wetware",
+      "id" : "Region 1, Song 2 of 4",
+    ],
+    "array" : [
+      "string" : "song_digitalparalysis",
+      "id" : "Digital Paralysis",
+    ],
+    "array" : [
+      "string" : "song_donotretreat",
+      "id" : "Do Not Retreat - Komputer Kontroller",
+    ],
+    "array" : [
+      "string" : "song_dreamer",
+      "id" : "Dreamer",
+    ],
+    "array" : [
+      "string" : "song_energize",
+      "id" : "Energize",
+    ],
+    "array" : [
+      "string" : "song_entomophobia",
+      "id" : "Entomophobia - M-Cue",
+    ],
+    "array" : [
+      "string" : "song_forcequit",
+      "id" : "Force Quit - Jim Guthrie",
+    ],
+    "array" : [
+      "string" : "song_humanlove",
+      "id" : "Human Love",
+    ],
+    "array" : [
+      "string" : "song_impossible",
+      "id" : "Impossible - Darren Korb",
+    ],
+    "array" : [
+      "string" : "song_iseeyou",
+      "id" : "I.C.U.",
+    ],
+    "array" : [
+      "string" : "song_is_downloading",
+      "id" : "This content is currently downloading from PlayStation(TM)Network.",
+    ],
+    "array" : [
+      "string" : "song_lights",
+      "id" : "Lights - Wolfgun",
+    ],
+    "array" : [
+      "string" : "song_magpie",
+      "id" : "Magpie",
+    ],
+    "array" : [
+      "string" : "song_muze",
+      "id" : "Muze (Amplitude Remix)",
+    ],
+    "array" : [
+      "string" : "song_necrodancer",
+      "id" : "Crypteque (1-2) - Danny Baranowsky",
+    ],
+    "array" : [
+      "string" : "song_perfectbrain",
+      "id" : "Perfect Brain",
+    ],
+    "array" : [
+      "string" : "song_phantoms",
+      "id" : "Phantoms - Freezepop",
+    ],
+    "array" : [
+      "string" : "song_recession",
+      "id" : "Recession",
+    ],
+    "array" : [
+      "string" : "song_redgiant",
+      "id" : "Red Giant - Kodomo",
+    ],
+    "array" : [
+      "string" : "song_select_help",
+      "id" : "// Select the desired neural pathway and sequence complexity",
+    ],
+    "array" : [
+      "string" : "song_semiotic",
+      "id" : "Concept - Symbion Project",
+    ],
+    "array" : [
+      "string" : "song_supraspatial",
+      "id" : "Supraspatial",
+    ],
+    "array" : [
+      "string" : "song_synthesized2014",
+      "id" : "Synthesized - Symbion Project",
+    ],
+    "array" : [
+      "string" : "song_tab_info",
+      "id" : "// Song",
+    ],
+    "array" : [
+      "string" : "song_tab_locked",
+      "id" : "Song Locked",
+    ],
+    "array" : [
+      "string" : "song_tab_unlocked",
+      "id" : "Song Unlocked",
+    ],
+    "array" : [
+      "string" : "song_title",
+      "id" : "%s",
+    ],
+    "array" : [
+      "string" : "song_unfinishedbusiness",
+      "id" : "Unfinished Business - Shiohito Taki and Junichi Kamiunten",
+    ],
+    "array" : [
+      "string" : "song_wayfarer",
+      "id" : "Wayfarer",
+    ],
+    "array" : [
+      "string" : "song_wetware",
+      "id" : "Wetware",
+    ],
+    "array" : [
+      "string" : "stage_completed",
+      "id" : "%d%% COMPLETED",
+    ],
+    "array" : [
+      "string" : "start_now",
+      "id" : "Start Now",
+    ],
+    "array" : [
+      "string" : "streak",
+      "id" : "Streak",
+    ],
+    "array" : [
+      "string" : "synth",
+      "id" : "SYNTH",
+    ],
+    "array" : [
+      "string" : "teamplay_title",
+      "id" : "Team Play",
+    ],
+    "array" : [
+      "string" : "team_color_a",
+      "id" : "MAGENTA TEAM",
+    ],
+    "array" : [
+      "string" : "team_color_b",
+      "id" : "GREEN TEAM",
+    ],
+    "array" : [
+      "string" : "team_play_help",
+      "id" : "// Configure nanoblasters for cooperative or competitive tracking",
+    ],
+    "array" : [
+      "string" : "temp_end_player_rank",
+      "id" : "%s",
+    ],
+    "array" : [
+      "string" : "tie",
+      "id" : "tie",
+    ],
+    "array" : [
+      "string" : "to_continue",
+      "id" : "to continue",
+    ],
+    "array" : [
+      "string" : "trial_banner_body1",
+      "id" : "- Experience the full musical journey and access new boosts",
+    ],
+    "array" : [
+      "string" : "trial_banner_body2",
+      "id" : "- Unlock the full 30+ song soundtrack",
+    ],
+    "array" : [
+      "string" : "trial_banner_body3",
+      "id" : "- Play cooperatively, competitively - and for the truly daring: Super and FreQ modes",
+    ],
+    "array" : [
+      "string" : "trial_banner_title",
+      "id" : "BUY AMPLITUDE NOW, ONLY ON PLAYSTATION!",
+    ],
+    "array" : [
+      "string" : "trial_lock",
+      "id" : "Purchase the full game to unlock.",
+    ],
+    "array" : [
+      "string" : "trophy_00_desc",
+      "id" : "Collect all other trophies.",
+    ],
+    "array" : [
+      "string" : "trophy_00_name",
+      "id" : "Superhuman",
+    ],
+    "array" : [
+      "string" : "trophy_01_desc",
+      "id" : "Complete a song in any mode.",
+    ],
+    "array" : [
+      "string" : "trophy_01_name",
+      "id" : "Pathway Restored",
+    ],
+    "array" : [
+      "string" : "trophy_02_desc",
+      "id" : "Restore a broken streak using Cleanse or Flow.",
+    ],
+    "array" : [
+      "string" : "trophy_02_name",
+      "id" : "Emergency Care",
+    ],
+    "array" : [
+      "string" : "trophy_03_desc",
+      "id" : "Clear two consecutive sequences on opposite sides.",
+    ],
+    "array" : [
+      "string" : "trophy_03_name",
+      "id" : "Accelerated Response",
+    ],
+    "array" : [
+      "string" : "trophy_04_desc",
+      "id" : "Clear two consecutive sequences and use Eject, Disrupt, or Cleanse against an opponent in between.",
+    ],
+    "array" : [
+      "string" : "trophy_04_name",
+      "id" : "Agressive Tendencies",
+    ],
+    "array" : [
+      "string" : "trophy_05_desc",
+      "id" : "Score 4000+ on a song as a team.",
+    ],
+    "array" : [
+      "string" : "trophy_05_name",
+      "id" : "Group Therapy",
+    ],
+    "array" : [
+      "string" : "trophy_06_desc",
+      "id" : "Get 100% Sequences Cleared on a song.",
+    ],
+    "array" : [
+      "string" : "trophy_06_name",
+      "id" : "Overachiever",
+    ],
+    "array" : [
+      "string" : "trophy_07_desc",
+      "id" : "Streak continuously and earn 100+ points through Disrupt.",
+    ],
+    "array" : [
+      "string" : "trophy_07_name",
+      "id" : "Imperturbable",
+    ],
+    "array" : [
+      "string" : "trophy_08_desc",
+      "id" : "Get a triple gold bar rating on three different songs.",
+    ],
+    "array" : [
+      "string" : "trophy_08_name",
+      "id" : "Golden Child",
+    ],
+    "array" : [
+      "string" : "trophy_09_desc",
+      "id" : "Complete Dalatecht on any difficulty in Campaign.",
+    ],
+    "array" : [
+      "string" : "trophy_09_name",
+      "id" : "Synesthete",
+    ],
+    "array" : [
+      "string" : "trophy_10_desc",
+      "id" : "Complete a full 15-song Campaign on Intermediate difficulty or above.",
+    ],
+    "array" : [
+      "string" : "trophy_10_name",
+      "id" : "Comprehensive Treatment",
+    ],
+    "array" : [
+      "string" : "trophy_11_desc",
+      "id" : "Unlock all songs.",
+    ],
+    "array" : [
+      "string" : "trophy_11_name",
+      "id" : "Total Awareness",
+    ],
+    "array" : [
+      "string" : "trophy_12_desc",
+      "id" : "Get more than 45000 points on the overall leaderboard.",
+    ],
+    "array" : [
+      "string" : "trophy_12_name",
+      "id" : "Aggregate Results",
+    ],
+    "array" : [
+      "string" : "trophy_13_desc",
+      "id" : "Complete a song in FreQ mode on Super difficulty.",
+    ],
+    "array" : [
+      "string" : "trophy_13_name",
+      "id" : "Super FreQ Out",
+    ],
+    "array" : [
+      "string" : "trophy_14_desc",
+      "id" : "Get a triple bar rating on all songs.",
+    ],
+    "array" : [
+      "string" : "trophy_14_name",
+      "id" : "Luminary",
+    ],
+    "array" : [
+      "string" : "trophy_15_desc",
+      "id" : "Complete a 15-song Campaign on Expert difficulty or above without failing, retrying, or quitting.",
+    ],
+    "array" : [
+      "string" : "trophy_15_name",
+      "id" : "Fluid Intelligence",
+    ],
+    "array" : [
+      "string" : "trophy_16_desc",
+      "id" : "Complete all songs on Super difficulty.",
+    ],
+    "array" : [
+      "string" : "trophy_16_name",
+      "id" : "Closure",
+    ],
+    "array" : [
+      "string" : "tutorial_desc",
+      "id" : "Play Training",
+    ],
+    "array" : [
+      "string" : "tutorial_intro_title",
+      "id" : "TRAINING",
+    ],
+    "array" : [
+      "string" : "tutorial_title",
+      "id" : "Training",
+    ],
+    "array" : [
+      "string" : "tut_040",
+      "id" : "// BLAST ALL LINKED CELLS
+TO CLEAR HIGHLIGHTED SEQUENCES",
+    ],
+    "array" : [
+      "string" : "tut_070",
+      "id" : "// SYNAESTHETIC INDUCTION
+// PHASE 1 OF 3 COMPLETE",
+    ],
+    "array" : [
+      "string" : "tut_080",
+      "id" : "// Move to bass track
+// Clear a sequence",
+    ],
+    "array" : [
+      "string" : "tut_090",
+      "id" : "// Move to synth track
+// Clear a sequence",
+    ],
+    "array" : [
+      "string" : "tut_140",
+      "id" : "// SYNAESTHETIC INDUCTION
+// PHASE 2 OF 3 COMPLETE",
+    ],
+    "array" : [
+      "string" : "tut_150",
+      "id" : "// CLEAR 6 SEQUENCES
+IN A CONTINUOUS STREAK",
+    ],
+    "array" : [
+      "string" : "tut_160",
+      "id" : "// STREAK SUCCESSFUL",
+    ],
+    "array" : [
+      "string" : "tut_162",
+      "id" : "// CONTINUE STREAK - TRACKS WILL RESET
+IN ORDER CLEARED",
+    ],
+    "array" : [
+      "string" : "tut_164",
+      "id" : "// STREAK COMPLETE
+// INITIAITNG SYNAESTHETIC STATE",
+    ],
+    "array" : [
+      "string" : "tut_166",
+      "id" : "// SYNAESTHETIC STATE INDUCED",
+    ],
+    "array" : [
+      "string" : "tut_170",
+      "id" : "!! WARNING: COGNITIVE OVERLOAD
+!! RISK OF BRAIN DEATH",
+    ],
+    "array" : [
+      "string" : "tut_180",
+      "id" : "!! SHUTTING DOWN",
+    ],
+    "array" : [
+      "string" : "tut_blank",
+      "id" : "",
+    ],
+    "array" : [
+      "string" : "tut_continue",
+      "id" : "Press X to continue",
+    ],
+    "array" : [
+      "string" : "tut_counter_gems3",
+      "id" : "CELLS
+BLASTED",
+    ],
+    "array" : [
+      "string" : "tut_counter_streak3",
+      "id" : "CURRENT
+STREAK",
+    ],
+    "array" : [
+      "string" : "tut_counter_tut0",
+      "id" : "CELLS
+BLASTED",
+    ],
+    "array" : [
+      "string" : "tut_counter_tut1",
+      "id" : "CURRENT
+STREAK",
+    ],
+    "array" : [
+      "string" : "tut_default_config_warning",
+      "id" : "The default wireless controller configuration is now in effect",
+    ],
+    "array" : [
+      "string" : "tut_failure",
+      "id" : "Input unsuccessful.
+Progressing...",
+    ],
+    "array" : [
+      "string" : "tut_fail_banner_body",
+      "id" : "// Reinitializing...",
+    ],
+    "array" : [
+      "string" : "tut_fail_banner_title",
+      "id" : "Phase Incomplete",
+    ],
+    "array" : [
+      "string" : "tut_hud",
+      "id" : "STATUS DISPLAY",
+    ],
+    "array" : [
+      "string" : "tut_hud_energy",
+      "id" : "Energy Monitor",
+    ],
+    "array" : [
+      "string" : "tut_hud_energy_desc",
+      "id" : "// Breaking streaks will reduce energy
+// Clear sequences to restore energy",
+    ],
+    "array" : [
+      "string" : "tut_hud_streak",
+      "id" : "Streak Monitor",
+    ],
+    "array" : [
+      "string" : "tut_hud_streak_desc",
+      "id" : "// Streak continuously for optimal performance",
+    ],
+    "array" : [
+      "string" : "tut_intro",
+      "id" : "System Guidance",
+    ],
+    "array" : [
+      "string" : "tut_intro_capture",
+      "id" : "Clearing Sequences",
+    ],
+    "array" : [
+      "string" : "tut_intro_capture_desc",
+      "id" : "// Blast all linked cells to clear highlighted sequences",
+    ],
+    "array" : [
+      "string" : "tut_intro_desc",
+      "id" : "// Preparing nanoblaster for human trial",
+    ],
+    "array" : [
+      "string" : "tut_intro_info_panel",
+      "id" : "Now initiating training sequence.
+
+User must demonstrate proficiency in basic nanoblaster skills before operating on human subjects.
+
+Phase 1: Clearing Sequences
+Phase 2: Streaking
+
+Continue when ready.",
+    ],
+    "array" : [
+      "string" : "tut_intro_powerup",
+      "id" : "NANOTECH BOOSTS",
+    ],
+    "array" : [
+      "string" : "tut_intro_powerup_desc",
+      "id" : "// CLEAR BOOST CELLS TO COLLECT, THEN DEPLOY WHEN READY WITH THE X BUTTON",
+    ],
+    "array" : [
+      "string" : "tut_intro_seek",
+      "id" : "STREAK SEEK",
+    ],
+    "array" : [
+      "string" : "tut_intro_seek_desc",
+      "id" : "// Use Left Stick to quickly move to available sequences",
+    ],
+    "array" : [
+      "string" : "tut_intro_streak",
+      "id" : "Streaking",
+    ],
+    "array" : [
+      "string" : "tut_intro_streak_desc",
+      "id" : "// To streak, move to a new track as soon as you clear a sequence",
+    ],
+    "array" : [
+      "string" : "tut_powerup",
+      "id" : "// DEPLOY NANOTECH BOOST",
+    ],
+    "array" : [
+      "string" : "tut_quit_msg",
+      "id" : "",
+    ],
+    "array" : [
+      "string" : "tut_success",
+      "id" : "// SEQUENCE CLEARED",
+    ],
+    "array" : [
+      "string" : "tut_win_banner_body0",
+      "id" : "// Initializing Phase 2...",
+    ],
+    "array" : [
+      "string" : "tut_win_banner_body1",
+      "id" : "// Approved for human trial",
+    ],
+    "array" : [
+      "string" : "tut_win_banner_title",
+      "id" : "Phase Complete",
+    ],
+    "array" : [
+      "string" : "tut_win_banner_title0",
+      "id" : "Phase Complete",
+    ],
+    "array" : [
+      "string" : "tut_win_banner_title1",
+      "id" : "Training Complete",
+    ],
+    "array" : [
+      "string" : "unlocked_content_desc_01",
+      "id" : "Update provides access to most extreme difficulty.",
+    ],
+    "array" : [
+      "string" : "unlocked_content_type_01",
+      "id" : "New Cognitive Parameters",
+    ],
+    "array" : [
+      "string" : "unlock_astrosight",
+      "id" : "Astrosight",
+    ],
+    "array" : [
+      "string" : "unlock_astrosight_desc",
+      "id" : "Barrier must be traversed to continue exploration.",
+    ],
+    "array" : [
+      "string" : "unlock_barrier",
+      "id" : "WARNING!",
+    ],
+    "array" : [
+      "string" : "unlock_barrier1_desc",
+      "id" : "// Memory barriers prevent access to next region",
+    ],
+    "array" : [
+      "string" : "unlock_barrier1_main",
+      "id" : "!! Streak through barriers to avoid damage",
+    ],
+    "array" : [
+      "string" : "unlock_barrier2_main",
+      "id" : "!! Avoid corrupted nanotech",
+    ],
+    "array" : [
+      "string" : "unlock_barrier3_desc",
+      "id" : "// Memory barriers prevent patient revival",
+    ],
+    "array" : [
+      "string" : "unlock_barrier3_main",
+      "id" : "!! Traverse barriers to avoid brain damage",
+    ],
+    "array" : [
+      "string" : "unlock_bonus",
+      "id" : "BONUS SONG",
+    ],
+    "array" : [
+      "string" : "unlock_bonus_desc",
+      "id" : "// Exemplary performance has revealed a new song in this region",
+    ],
+    "array" : [
+      "string" : "unlock_bonus_main",
+      "id" : "Entering Ancillary Neural Pathway",
+    ],
+    "array" : [
+      "string" : "unlock_breakforme",
+      "id" : "BREAK FOR ME",
+    ],
+    "array" : [
+      "string" : "unlock_cinematicdnb",
+      "id" : "CINEMATIC DNB",
+    ],
+    "array" : [
+      "string" : "unlock_cinematicdnb_desc",
+      "id" : "Barrier must be traversed to ensure patient survival.",
+    ],
+    "array" : [
+      "string" : "unlock_cleanse",
+      "id" : "CLEANSE",
+    ],
+    "array" : [
+      "string" : "unlock_cleanse_desc",
+      "id" : "// Deploy to automatically clear current sequence",
+    ],
+    "array" : [
+      "string" : "unlock_disrupt",
+      "id" : "DISRUPT",
+    ],
+    "array" : [
+      "string" : "unlock_disrupt_desc",
+      "id" : "// Deploy behind opponent in multiplayer to distort their track processing",
+    ],
+    "array" : [
+      "string" : "unlock_eject",
+      "id" : "EJECT",
+    ],
+    "array" : [
+      "string" : "unlock_eject_desc",
+      "id" : "// Deploy behind opponent in multiplayer to take control of track",
+    ],
+    "array" : [
+      "string" : "unlock_extra",
+      "id" : "SONG DISCOVERED",
+    ],
+    "array" : [
+      "string" : "unlock_extra_desc",
+      "id" : "// Now available for traversal in Quickplay",
+    ],
+    "array" : [
+      "string" : "unlock_flow",
+      "id" : "FLOW",
+    ],
+    "array" : [
+      "string" : "unlock_flow_desc",
+      "id" : "// Deploy to enable user-controlled audio creation mode",
+    ],
+    "array" : [
+      "string" : "unlock_freq",
+      "id" : "FreQ MODE",
+    ],
+    "array" : [
+      "string" : "unlock_freq_desc",
+      "id" : "// Allows song traversal in tunnel layout
+// Activate in Options Menu",
+    ],
+    "array" : [
+      "string" : "unlock_help",
+      "id" : "// NEW FIRMWARE AVAILABLE",
+    ],
+    "array" : [
+      "string" : "unlock_multiply",
+      "id" : "MULTIPLY",
+    ],
+    "array" : [
+      "string" : "unlock_multiply_desc",
+      "id" : "// Deploy to temporarily double the value of points earned",
+    ],
+    "array" : [
+      "string" : "unlock_nightmare",
+      "id" : "SUPER DIFFICULTY",
+    ],
+    "array" : [
+      "string" : "unlock_nightmare_desc",
+      "id" : "!! No energy restoration, no breaks, Multiply boosts only",
+    ],
+    "array" : [
+      "string" : "unlock_powerup",
+      "id" : "BOOST UNLOCKED",
+    ],
+    "array" : [
+      "string" : "unlock_recession",
+      "id" : "RECESSION",
+    ],
+    "array" : [
+      "string" : "unlock_recession_desc",
+      "id" : "Barrier must be traversed to continue exploration.",
+    ],
+    "array" : [
+      "string" : "unlock_region",
+      "id" : "Activating Region",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_bonus",
+      "id" : "Region Bonus Song. Earn high ratings in Campaign play to unlock.",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_bonus_final",
+      "id" : "Final Bonus Song. Unlock in Campaign play.",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_boss",
+      "id" : "Region Barrier Song. Complete three songs in this Region in Campaign play to unlock.",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_playcount",
+      "id" : "Play %s more songs to unlock.",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_world2",
+      "id" : "Complete Recession in Campaign play to unlock.",
+    ],
+    "array" : [
+      "string" : "unlock_requirement_world3",
+      "id" : "Complete Astrosight in Campaign play to unlock.",
+    ],
+    "array" : [
+      "string" : "unlock_sedate",
+      "id" : "SEDATE",
+    ],
+    "array" : [
+      "string" : "unlock_sedate_desc",
+      "id" : "// Deploy to temporarily slow perception of audio data",
+    ],
+    "array" : [
+      "string" : "unlock_title",
+      "id" : "SYSTEM UPDATE",
+    ],
+    "array" : [
+      "string" : "unlock_upgrade",
+      "id" : "System Upgrade",
+    ],
+    "array" : [
+      "string" : "unlock_world1",
+      "id" : "Prefrontal Cortex",
+    ],
+    "array" : [
+      "string" : "unlock_world1_desc",
+      "id" : "// Patient condition: unknown",
+    ],
+    "array" : [
+      "string" : "unlock_world2_desc",
+      "id" : "// Patient condition: stabilizing",
+    ],
+    "array" : [
+      "string" : "unlock_world3",
+      "id" : "Limbic System",
+    ],
+    "array" : [
+      "string" : "unlock_world3_desc",
+      "id" : "!! Patient condition: critical",
+    ],
+    "array" : [
+      "string" : "vocals",
+      "id" : "VOCALS",
+    ],
+    "array" : [
+      "string" : "won_multi_game",
+      "id" : "%s Wins!",
+    ],
+    "array" : [
+      "string" : "world1_title",
+      "id" : "Prefrontal Cortex",
+    ],
+    "array" : [
+      "string" : "world2_title",
+      "id" : "Temporal Lobe",
+    ],
+    "array" : [
+      "string" : "world3_title",
+      "id" : "Limbic System",
+    ],
+    "array" : [
+      "string" : "yes",
+      "id" : "Yes",
+    ],
+    "array" : [
+      "string" : "overscan_on",
+      "id" : "OVERSCAN ON",
+    ],
+    "array" : [
+      "string" : "overscan_off",
+      "id" : "OVERSCAN OFF",
+    ],
+    "array" : [
+      "string" : "save_data",
+      "id" : "Save Data",
+    ],
+    "array" : [
+      "string" : "load_error_user",
+      "id" : "Load failed because you are not the owner of this save file.  Continuing will overwrite with new file.",
+    ],
+    "array" : [
+      "string" : "psn_sign_in_prompt",
+      "id" : "You are not signed into the PlayStation™Network. Online features will not be available.  Would you like to sign in?",
+    ],
+    "array" : [
+      "string" : "psn_age_restricted",
+      "id" : "You cannot access online features due to account restrictions.",
+    ],
+    "array" : [
+      "string" : "credits_legal_1",
+      "id" : "Copyright 2016 Sony Computer Entertainment America LLC.",
+    ],
+    "array" : [
+      "string" : "credits_legal_2",
+      "id" : "Amplitude is a trademark of Sony Computer Entertainment America LLC.",
+    ],
+    "array" : [
+      "string" : "credits_legal_3",
+      "id" : "Harmonix and all related titles and logos are trademarks of Harmonix Music Systems, Inc.",
+    ],
+    "array" : [
+      "string" : "credits_legal_4",
+      "id" : "All rights reserved. Amplitude developed by Harmonix Music Systems, Inc.",
+    ],
+    "array" : [
+      "string" : "credits_legal_5",
+      "id" : "This product is covered by Patents identified at www.harmonixmusic.com/patents.",
+    ],
+  ],
+},

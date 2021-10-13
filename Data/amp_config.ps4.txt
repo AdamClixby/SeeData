@@ -1,0 +1,2887 @@
+{
+  "array" : [
+    "include" : "include/version.dta",
+    "include" : "amp_input_config.dta",
+    "array" : [
+      "string" : "system",
+      "array" : [
+        "string" : "language",
+        "array" : [
+          "string" : "default",
+          "string" : "eng",
+        ],
+        "array" : [
+          "string" : "supported",
+          "array" : [
+            "string" : "eng",
+            "string" : "fre",
+            "string" : "ita",
+            "string" : "deu",
+            "string" : "esl",
+            "string" : "ptb",
+          ],
+        ],
+        "define" : "_SHIP",
+        "array" : [
+          "string" : "cheat_supported",
+          "array" : [
+            "string" : "eng",
+            "string" : "fre",
+            "string" : "ita",
+            "string" : "deu",
+            "string" : "esl",
+            "string" : "ptb",
+          ],
+        ],
+        "int9" : 0,
+      ],
+      "array" : [
+        "string" : "ps4_map_file",
+        "id" : "amplitude_ps4_%s.map",
+      ],
+    ],
+    "array" : [
+      "string" : "sound_manager",
+      "array" : [
+        "string" : "fmod_live_update",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "master_pause_bus_path",
+        "id" : "bus:/MASTER_SFX",
+      ],
+    ],
+    "array" : [
+      "string" : "platform_mgr",
+      "array" : [
+        "string" : "supported_platforms",
+        "string" : "kPlatformPC",
+        "string" : "kPlatformPS3",
+        "string" : "kPlatformPS4",
+      ],
+    ],
+    "array" : [
+      "string" : "persistence",
+      "array" : [
+        "string" : "ps4_save_data_icon",
+        "id" : "/app0/sce_sys/save_data.png",
+      ],
+    ],
+    "array" : [
+      "string" : "content_mgr",
+      "array" : [
+        "string" : "ps4_service_labels",
+        "array" : [
+          "string" : "scea",
+          "array" : [
+            "int" : 0,
+            "int" : 1,
+            "int" : 2,
+            "int" : 3,
+          ],
+        ],
+        "array" : [
+          "string" : "scee",
+          "array" : [
+            "int" : 0,
+            "int" : 1,
+            "int" : 2,
+            "int" : 3,
+            "int" : 4,
+          ],
+        ],
+      ],
+    ],
+    "array" : [
+      "string" : "locale",
+      "string" : "../ui/locale/eng/locale_keep.dta",
+    ],
+    "array" : [
+      "string" : "ui",
+    ],
+    "array" : [
+      "string" : "crucible",
+      "array" : [
+        "string" : "project",
+        "id" : "amplitude",
+      ],
+    ],
+    "array" : [
+      "string" : "timer",
+    ],
+    "array" : [
+      "string" : "rnd",
+    ],
+    "array" : [
+      "string" : "cheats",
+      "array" : [
+        "string" : "quick_cheats",
+        "array" : [
+          "string" : "left",
+          "array" : [
+            "string" : "kPad_R3",
+            "array_alt" : [
+              "string" : "lyric",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_X",
+            "array_alt" : [
+              "string" : "freeze",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Square",
+            "array_alt" : [
+              "string" : "track_solo",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Circle",
+            "array_alt" : [
+              "string" : "freestyle_toggle",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Tri",
+            "array_alt" : [
+              "string" : "practice_mode",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_DDown",
+            "array_alt" : [
+              "string" : "slow",
+            ],
+          ],
+        ],
+        "array" : [
+          "string" : "right",
+          "array" : [
+            "string" : "kPad_Tri",
+            "array_alt" : [
+              "string" : "no_capture",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_X",
+            "array_alt" : [
+              "string" : "autocatcher",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Square",
+            "array_alt" : [
+              "string" : "bumper",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Circle",
+            "array_alt" : [
+              "string" : "crippler",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_DRight",
+            "array_alt" : [
+              "string" : "multiplier",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_L3",
+            "array_alt" : [
+              "string" : "freestyle",
+              "array" : [
+                "string" : "controller",
+                "int" : 0,
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_DUp",
+            "array_alt" : [
+              "string" : "juice",
+              "int" : 1,
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_DDown",
+            "array_alt" : [
+              "string" : "juice",
+              "int" : -1,
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Start",
+            "array_alt" : [
+              "string" : "win_cheat",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_Select",
+            "array_alt" : [
+              "string" : "unlock_all",
+              "string" : "songs",
+            ],
+          ],
+          "array" : [
+            "string" : "kPad_DLeft",
+            "array_alt" : [
+              "string" : "win_sequence",
+            ],
+          ],
+        ],
+        "array" : [
+          "string" : "keyboard",
+          "array" : [
+            "string" : "G",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "auto_bot",
+                ],
+                "array_alt" : [
+                  "string" : "auto_bot",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "g",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "autopilot",
+                ],
+                "array_alt" : [
+                  "string" : "autopilot",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "o",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "play_all_gems",
+                ],
+                "array_alt" : [
+                  "string" : "play_all_gems",
+                ],
+                "array_alt" : [
+                  "string" : "track_solo",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "p",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "practice_mode",
+                ],
+                "array_alt" : [
+                  "string" : "practice_mode",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "P",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "toggle_frame_report",
+                ],
+                "array_alt" : [
+                  "string" : "toggle_frame_report",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "s",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "slow",
+                ],
+                "array_alt" : [
+                  "string" : "slow",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "a",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "autocatcher",
+                ],
+                "array_alt" : [
+                  "string" : "autocatcher",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "b",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "bumper",
+                ],
+                "array_alt" : [
+                  "string" : "bumper",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "c",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "crippler",
+                ],
+                "array_alt" : [
+                  "string" : "crippler",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "m",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "multiplier",
+                ],
+                "array_alt" : [
+                  "string" : "multiplier",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "n",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "kill_notifies",
+                ],
+                "array_alt" : [
+                  "string" : "kill_notifies",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "f",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "freestyle",
+                ],
+                "array_alt" : [
+                  "string" : "freestyle",
+                  "array" : [
+                    "string" : "controller",
+                    "int" : 0,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "F",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "freestyle",
+                ],
+                "array_alt" : [
+                  "string" : "toggle_freestyle",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "j",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "juice",
+                ],
+                "array_alt" : [
+                  "string" : "juice",
+                  "int" : 1,
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "l",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "juice",
+                ],
+                "array_alt" : [
+                  "string" : "juice",
+                  "int" : -1,
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "w",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "win_cheat",
+                ],
+                "array_alt" : [
+                  "string" : "win_cheat",
+                  "int" : 123,
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "W",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "win_cheat",
+                ],
+                "array_alt" : [
+                  "string" : "win_cheat",
+                  "int" : 5000,
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "u",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "unlock_all",
+                ],
+                "array_alt" : [
+                  "string" : "unlock_all",
+                  "string" : "songs",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "U",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "toggle_quickplay_campaign",
+                ],
+                "array_alt" : [
+                  "string" : "toggle_quickplay_campaign",
+                  "string" : "songs",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "M",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "toggle_overlay",
+                ],
+                "array_alt" : [
+                  "string" : "toggle_overlay",
+                  "string" : "mbt",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "v",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "toggle_vsync",
+                ],
+                "array_alt" : [
+                  "string" : "toggle_vsync",
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "KB_UP",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "set_song_speed",
+                ],
+                "array_alt" : [
+                  "string" : "set_song_speed",
+                  "array_alt" : [
+                    "string" : "*",
+                    "array_alt" : [
+                      "string" : "get_song_speed",
+                    ],
+                    "float" : 1.600000,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "KB_DOWN",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "set_song_speed",
+                ],
+                "array_alt" : [
+                  "string" : "set_song_speed",
+                  "array_alt" : [
+                    "string" : "*",
+                    "array_alt" : [
+                      "string" : "get_song_speed",
+                    ],
+                    "float" : 0.625000,
+                  ],
+                ],
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "1",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_trackship",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "2",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_world",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "3",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_hud",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "4",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_world_lights",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "5",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_world_light_probes",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "6",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "toggle_world_drawing",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "y",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "cheat_mixer_active_up",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "h",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "cheat_mixer_active_down",
+              ],
+            ],
+          ],
+          "array" : [
+            "string" : "O",
+            "array" : [
+              "string" : "",
+              "array_alt" : [
+                "string" : "if",
+                "array_alt" : [
+                  "string" : "exists",
+                  "string" : "play_all_gems",
+                ],
+                "array_alt" : [
+                  "string" : "play_all_gems",
+                ],
+                "array_alt" : [
+                  "string" : "cheat_mixer_no_active",
+                ],
+              ],
+            ],
+          ],
+        ],
+      ],
+      "array" : [
+        "string" : "long_cheats",
+        "array" : [
+          "array" : [
+            "string" : "kPad_DRight",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DUp",
+          ],
+          "array_alt" : [
+            "string" : "pup_cheat_mode",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "TRUE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DRight",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kAutocatcher",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DRight",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kMultiplier",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kSlowdown",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DRight",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DLeft",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kFreestyle",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DUp",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kBumper",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DUp",
+          ],
+          "array_alt" : [
+            "string" : "powerup",
+            "string" : "kCrippler",
+            "array" : [
+              "string" : "controller",
+              "int" : 0,
+            ],
+          ],
+          "string" : "FALSE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DRight",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_Circle",
+            "string" : "kPad_X",
+            "string" : "kPad_Tri",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DRight",
+          ],
+          "array_alt" : [
+            "string" : "slow",
+          ],
+          "string" : "TRUE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_Square",
+            "string" : "kPad_Circle",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DDown",
+            "string" : "kPad_L3",
+            "string" : "kPad_R3",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DRight",
+          ],
+          "array_alt" : [
+            "string" : "scramble_gems",
+          ],
+          "string" : "TRUE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_DRight",
+            "string" : "kPad_Circle",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_Circle",
+            "string" : "kPad_DUp",
+            "string" : "kPad_X",
+            "string" : "kPad_DDown",
+            "string" : "kPad_X",
+          ],
+          "array_alt" : [
+            "string" : "autopilot",
+          ],
+          "string" : "TRUE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_Tri",
+            "string" : "kPad_DUp",
+            "string" : "kPad_Square",
+            "string" : "kPad_DDown",
+            "string" : "kPad_Circle",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_X",
+            "string" : "kPad_X",
+          ],
+          "array_alt" : [
+            "string" : "powerups_a_plenty",
+          ],
+          "string" : "TRUE",
+        ],
+        "array" : [
+          "array" : [
+            "string" : "kPad_Circle",
+            "string" : "kPad_Square",
+            "string" : "kPad_X",
+            "string" : "kPad_X",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DUp",
+            "string" : "kPad_DLeft",
+            "string" : "kPad_DDown",
+            "string" : "kPad_DRight",
+          ],
+          "array_alt" : [
+            "string" : "unlock_all",
+            "string" : "songs",
+          ],
+          "string" : "TRUE",
+        ],
+      ],
+    ],
+    "array" : [
+      "string" : "db",
+      "array" : [
+        "string" : "songs",
+        "include" : "amp_songs_config.dta",
+      ],
+      "array" : [
+        "string" : "meta_music_bus",
+        "string" : "event:/METAGAMEMUSIC_BUS",
+      ],
+      "array" : [
+        "string" : "preview_bus",
+        "string" : "event:/SONG_PREVIEW",
+      ],
+      "array" : [
+        "string" : "preview_loop_fade_out_sec",
+        "float" : 1.500000,
+      ],
+      "array" : [
+        "string" : "preview_loop_fade_in_sec",
+        "float" : 1.500000,
+      ],
+      "array" : [
+        "string" : "preview_stop_fade_out_sec",
+        "float" : 1.000000,
+      ],
+      "array" : [
+        "string" : "region_tokens",
+        "array" : [
+          "string" : "World1",
+          "string" : "world1_title",
+        ],
+        "array" : [
+          "string" : "World2",
+          "string" : "world2_title",
+        ],
+        "array" : [
+          "string" : "World3",
+          "string" : "world3_title",
+        ],
+        "array" : [
+          "string" : "Tutorial",
+          "string" : "tutorial_title",
+        ],
+      ],
+      "array" : [
+        "string" : "mp_blasters",
+        "array" : [
+          "id" : "track/blaster/blaster_anim/blaster.char",
+          "id" : "ui/select_blaster/ui_ship.entity",
+          "string" : "player_color_0",
+        ],
+        "array" : [
+          "id" : "track/blaster/blaster_02/blaster_02.char",
+          "id" : "ui/select_blaster/ui_ship_02.entity",
+          "string" : "player_color_1",
+        ],
+        "array" : [
+          "id" : "track/blaster/blaster_03/blaster_03.char",
+          "id" : "ui/select_blaster/ui_ship_03.entity",
+          "string" : "player_color_2",
+        ],
+        "array" : [
+          "id" : "track/blaster/blaster_04/blaster_04.char",
+          "id" : "ui/select_blaster/ui_ship_04.entity",
+          "string" : "player_color_3",
+        ],
+      ],
+      "array" : [
+        "string" : "backer_blaster",
+        "array" : [
+          "id" : "track/blaster/blaster_backer/blaster_backer.char",
+          "id" : "ui/select_blaster/ui_ship_backer.entity",
+          "string" : "player_color_4",
+        ],
+      ],
+      "array" : [
+        "string" : "unlock_tokens",
+        "array" : [
+          "string" : "autocatcher",
+          "string" : "cleanse",
+          "string" : "unlock_powerup",
+          "string" : "unlock_cleanse_desc",
+          "id" : "ui/textures/powerup_cleanse.bmp",
+          "string" : "CAMPVO_pup_cleanse",
+        ],
+        "array" : [
+          "string" : "multiplier",
+          "string" : "multiply",
+          "string" : "unlock_powerup",
+          "string" : "unlock_multiply_desc",
+          "id" : "ui/textures/powerup_multiply.bmp",
+          "string" : "CAMPVO_pup_multiply",
+        ],
+        "array" : [
+          "string" : "slowdown",
+          "string" : "sedate",
+          "string" : "unlock_powerup",
+          "string" : "unlock_sedate_desc",
+          "id" : "ui/textures/powerup_sedate.bmp",
+          "string" : "CAMPVO_pup_sedate",
+        ],
+        "array" : [
+          "string" : "freestyle",
+          "string" : "flow",
+          "string" : "unlock_powerup",
+          "string" : "unlock_flow_desc",
+          "id" : "ui/textures/powerup_flow.bmp",
+          "string" : "CAMPVO_pup_flow",
+        ],
+        "array" : [
+          "string" : "crippler",
+          "string" : "disrupt",
+          "string" : "unlock_powerup",
+          "string" : "unlock_disrupt_desc",
+          "id" : "ui/textures/powerup_disable.bmp",
+          "string" : "CAMPVO_pup_disrupt",
+        ],
+        "array" : [
+          "string" : "bumper",
+          "string" : "eject",
+          "string" : "unlock_powerup",
+          "string" : "unlock_eject_desc",
+          "id" : "ui/textures/powerup_eject.bmp",
+          "string" : "CAMPVO_pup_eject",
+        ],
+        "array" : [
+          "string" : "ALLTHETIME",
+          "string" : "song_allthetime",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ASSAULT_ON",
+          "string" : "song_assault_on",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "CRAZY_RIDE",
+          "string" : "song_crazyride",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "CRYSTAL",
+          "string" : "song_crystal",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "DONOTRETREAT",
+          "string" : "song_donotretreat",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ENTOMOPHOBIA",
+          "string" : "song_entomophobia",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "FORCEQUIT",
+          "string" : "song_forcequit",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "IMPOSSIBLE",
+          "string" : "song_impossible",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "LIGHTS",
+          "string" : "song_lights",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "MUZE",
+          "string" : "song_muze",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "NECRODANCER",
+          "string" : "song_necrodancer",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "PHANTOMS",
+          "string" : "song_phantoms",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "REDGIANT",
+          "string" : "song_redgiant",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "CONCEPT",
+          "string" : "song_semiotic",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "SYNTHESIZED2014",
+          "string" : "song_synthesized2014",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "UNFINISHEDBUSINESS",
+          "string" : "song_unfinishedbusiness",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "freq_mode",
+          "string" : "unlock_freq",
+          "string" : "unlock_upgrade",
+          "string" : "unlock_freq_desc",
+          "id" : "ui/textures/freq.bmp",
+          "string" : "CAMPVO_freq",
+        ],
+        "array" : [
+          "string" : "skill_nightmare",
+          "string" : "unlock_nightmare",
+          "string" : "unlock_upgrade",
+          "string" : "unlock_nightmare_desc",
+          "id" : "ui/textures/warning.png",
+          "string" : "CAMPVO_superfreq",
+        ],
+        "array" : [
+          "string" : "PERFECTBRAIN",
+          "string" : "song_perfectbrain",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "DREAMER",
+          "string" : "song_dreamer",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "WETWARE",
+          "string" : "song_wetware",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "RECESSION",
+          "string" : "song_recession",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "BREAKFORME",
+          "string" : "song_breakforme",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "DECODE_ME",
+          "string" : "song_decode_me",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ISEEYOU",
+          "string" : "song_iseeyou",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "HUMANLOVE",
+          "string" : "song_humanlove",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ASTROSIGHT",
+          "string" : "song_astrosight",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "MAGPIE",
+          "string" : "song_magpie",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "SUPRASPATIAL",
+          "string" : "song_supraspatial",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "DIGITALPARALYSIS",
+          "string" : "song_digitalparalysis",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ENERGIZE",
+          "string" : "song_energize",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "DALATECHT",
+          "string" : "song_dalatecht",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "WAYFARER",
+          "string" : "song_wayfarer",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "id" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "BALDWINBROS",
+          "string" : "Urban Tumbleweed",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "BASELINE",
+          "string" : "Baseline",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "BOWIE",
+          "string" : "Everyone Says 'Hi' (Metro Remix)",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "GARBAGE",
+          "string" : "Cherry Lips",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "LOGAN7",
+          "string" : "Uptown Saturday Night",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "MEKON",
+          "string" : "What's Going On?",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "PAPAROACH",
+          "string" : "M-80 (Explosive Energy Movement)",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "PINK",
+          "string" : "Respect",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "POD",
+          "string" : "Boom",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ROCKIT",
+          "string" : "Rockit (2.002 Remix)",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "ROCKSTAR",
+          "string" : "Rockstar",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "RUNDMC",
+          "string" : "King of Rock (X-Ecutioners Remix)",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "SHADES_OF_BLUE",
+          "string" : "Shades of Blue",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "SUPERSPRODE",
+          "string" : "Super-SprØde",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "WEEZER",
+          "string" : "Dope Nose",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+        "array" : [
+          "string" : "FINDER",
+          "string" : "Finder",
+          "string" : "unlock_extra",
+          "string" : "unlock_extra_desc",
+          "string" : "ui/textures/black_square.png",
+          "string" : "CAMPVO_song_extra",
+        ],
+      ],
+      "array" : [
+        "string" : "campaign",
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "World1",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "World2",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "World3",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "PERFECTBRAIN",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "WETWARE",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 1,
+          "string" : "kUnlockPowerup",
+          "string" : "autocatcher",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 2,
+          "string" : "kUnlockExtraSong",
+          "string" : "PHANTOMS",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "DREAMER",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "RECESSION",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 0,
+          "string" : "kUnlockArena",
+          "string" : "DONOTRETREAT",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 14,
+          "string" : "kUnlockFreQMode",
+          "string" : "freq_mode",
+        ],
+        "array" : [
+          "string" : "beat_campaign",
+          "array" : [
+            "int" : 3,
+            "int" : 15,
+            "int" : 1,
+          ],
+          "string" : "kUnlockSuperSkill",
+          "string" : "skill_nightmare",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 1,
+          "string" : "kUnlockPowerup",
+          "string" : "autocatcher",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 4,
+          "string" : "kUnlockPowerup",
+          "string" : "slowdown",
+        ],
+        "array" : [
+          "string" : "region_scored",
+          "int" : 1,
+          "string" : "kUnlockNormalSong",
+          "string" : "BREAKFORME",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 4,
+          "string" : "kUnlockNormalSong",
+          "string" : "DECODE_ME",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 4,
+          "string" : "kUnlockNormalSong",
+          "string" : "ISEEYOU",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 6,
+          "string" : "kUnlockPowerup",
+          "string" : "freestyle",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 4,
+          "string" : "kUnlockNormalSong",
+          "string" : "HUMANLOVE",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 8,
+          "string" : "kUnlockNormalSong",
+          "string" : "ASTROSIGHT",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 9,
+          "string" : "kUnlockPowerup",
+          "string" : "crippler",
+        ],
+        "array" : [
+          "string" : "region_scored",
+          "int" : 2,
+          "string" : "kUnlockNormalSong",
+          "string" : "MAGPIE",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 9,
+          "string" : "kUnlockNormalSong",
+          "string" : "SUPRASPATIAL",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 9,
+          "string" : "kUnlockNormalSong",
+          "string" : "DIGITALPARALYSIS",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 11,
+          "string" : "kUnlockPowerup",
+          "string" : "multiplier",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 9,
+          "string" : "kUnlockNormalSong",
+          "string" : "ENERGIZE",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 13,
+          "string" : "kUnlockNormalSong",
+          "string" : "DALATECHT",
+        ],
+        "array" : [
+          "string" : "beat_num",
+          "int" : 14,
+          "string" : "kUnlockPowerup",
+          "string" : "bumper",
+        ],
+        "array" : [
+          "string" : "region_scored",
+          "int" : 3,
+          "string" : "kUnlockNormalSong",
+          "string" : "WAYFARER",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 4,
+          "string" : "kUnlockExtraSong",
+          "string" : "CONCEPT",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 5,
+          "string" : "kUnlockNormalSong",
+          "string" : "DECODE_ME",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 6,
+          "string" : "kUnlockPowerup",
+          "string" : "freestyle",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 8,
+          "string" : "kUnlockExtraSong",
+          "string" : "NECRODANCER",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 9,
+          "string" : "kUnlockNormalSong",
+          "string" : "ISEEYOU",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 10,
+          "string" : "kUnlockPowerup",
+          "string" : "crippler",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 12,
+          "string" : "kUnlockExtraSong",
+          "string" : "REDGIANT",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 14,
+          "string" : "kUnlockNormalSong",
+          "string" : "HUMANLOVE",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 15,
+          "string" : "kUnlockPowerup",
+          "string" : "bumper",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 16,
+          "string" : "kUnlockExtraSong",
+          "string" : "CRYSTAL",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 18,
+          "string" : "kUnlockNormalSong",
+          "string" : "SUPRASPATIAL",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 19,
+          "string" : "kUnlockPowerup",
+          "string" : "multiplier",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 20,
+          "string" : "kUnlockExtraSong",
+          "string" : "SYNTHESIZED2014",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 22,
+          "string" : "kUnlockNormalSong",
+          "string" : "DIGITALPARALYSIS",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 23,
+          "string" : "kUnlockPowerup",
+          "string" : "slowdown",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 24,
+          "string" : "kUnlockExtraSong",
+          "string" : "ALLTHETIME",
+        ],
+        "array" : [
+          "string" : "play_num_qp",
+          "int" : 26,
+          "string" : "kUnlockNormalSong",
+          "string" : "ENERGIZE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 28,
+          "string" : "kUnlockExtraSong",
+          "string" : "IMPOSSIBLE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 32,
+          "string" : "kUnlockExtraSong",
+          "string" : "UNFINISHEDBUSINESS",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 36,
+          "string" : "kUnlockExtraSong",
+          "string" : "LIGHTS",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 40,
+          "string" : "kUnlockExtraSong",
+          "string" : "MUZE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 44,
+          "string" : "kUnlockExtraSong",
+          "string" : "FORCEQUIT",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 52,
+          "string" : "kUnlockExtraSong",
+          "string" : "ASSAULT_ON",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 56,
+          "string" : "kUnlockExtraSong",
+          "string" : "CRAZY_RIDE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 60,
+          "string" : "kUnlockExtraSong",
+          "string" : "ENTOMOPHOBIA",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 80,
+          "string" : "kUnlockFreQMode",
+          "string" : "freq_mode",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "BALDWINBROS",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "BASELINE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "BOWIE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "GARBAGE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "LOGAN7",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "MEKON",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "PAPAROACH",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "PINK",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "POD",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "ROCKIT",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "ROCKSTAR",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "RUNDMC",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "SHADES_OF_BLUE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "SUPERSPRODE",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "WEEZER",
+        ],
+        "array" : [
+          "string" : "play_num",
+          "int" : 0,
+          "string" : "kUnlockExtraSong",
+          "string" : "FINDER",
+        ],
+      ],
+      "array" : [
+        "string" : "arena_scores",
+        "array" : [
+          "string" : "World1",
+          "int" : 1000,
+          "int" : 2100,
+          "int" : 3300,
+          "int" : 5300,
+          "int" : 5300,
+        ],
+        "array" : [
+          "string" : "World2",
+          "int" : 1000,
+          "int" : 2600,
+          "int" : 4000,
+          "int" : 5300,
+          "int" : 5300,
+        ],
+        "array" : [
+          "string" : "World3",
+          "int" : 1000,
+          "int" : 3200,
+          "int" : 3800,
+          "int" : 6100,
+          "int" : 6100,
+        ],
+        "array" : [
+          "string" : "Tutorial",
+          "int" : 50,
+          "int" : 100,
+          "int" : 150,
+          "int" : 200,
+          "int" : 200,
+        ],
+      ],
+      "array" : [
+        "string" : "campaign_cheats",
+        "array" : [
+          "string" : "world1",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockArena",
+            "string" : "World1",
+          ],
+        ],
+        "array" : [
+          "string" : "world1_boss",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "autocatcher",
+          ],
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "RECESSION",
+          ],
+        ],
+        "array" : [
+          "string" : "world1_bonus",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "BREAKFORME",
+          ],
+        ],
+        "array" : [
+          "string" : "world2",
+          "array" : [
+            "string" : "skill_unlock",
+            "string" : "kUnlockArena",
+            "string" : "World2",
+          ],
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "freestyle",
+          ],
+        ],
+        "array" : [
+          "string" : "world2_boss",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "slowdown",
+          ],
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "ASTROSIGHT",
+          ],
+        ],
+        "array" : [
+          "string" : "world2_bonus",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "MAGPIE",
+          ],
+        ],
+        "array" : [
+          "string" : "world3",
+          "array" : [
+            "string" : "skill_unlock",
+            "string" : "kUnlockArena",
+            "string" : "World3",
+          ],
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "crippler",
+          ],
+        ],
+        "array" : [
+          "string" : "world3_boss",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "multiplier",
+          ],
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "DALATECHT",
+          ],
+        ],
+        "array" : [
+          "string" : "world3_bonus",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockNormalSong",
+            "string" : "WAYFARER",
+          ],
+        ],
+        "array" : [
+          "string" : "world4",
+          "array" : [
+            "string" : "unlock",
+            "string" : "kUnlockPowerup",
+            "string" : "bumper",
+          ],
+        ],
+      ],
+      "array" : [
+        "string" : "song",
+        "string" : "PERFECTBRAIN",
+      ],
+      "array" : [
+        "string" : "num_players",
+        "int" : 1,
+      ],
+      "array" : [
+        "string" : "community",
+        "string" : "kCommSolo",
+      ],
+      "array" : [
+        "string" : "rule_set",
+        "string" : "kRuleGame",
+      ],
+      "array" : [
+        "string" : "net",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "players",
+        "string" : "BOB",
+        "string" : "STINKY",
+        "string" : "GUMBY",
+        "string" : "HENRIETTA",
+      ],
+      "array" : [
+        "string" : "skill_level",
+        "int" : 1,
+      ],
+      "array" : [
+        "string" : "practice_mode",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "input_map",
+        "string" : "input_right_dominant_smart",
+      ],
+      "array" : [
+        "string" : "auto_start",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "shared_fx_midi_file",
+        "id" : "SoundFX/sharedFX.mid",
+      ],
+      "array" : [
+        "string" : "game_fx_midi_file",
+        "id" : "SoundFX/gameFX.mid",
+      ],
+      "array" : [
+        "string" : "meta_fx_midi_file",
+        "id" : "SoundFX/metaFX.mid",
+      ],
+      "array" : [
+        "string" : "eng_fx_midi_file",
+        "id" : "SoundFX/FX.mid",
+      ],
+      "array" : [
+        "string" : "spanish_fx_midi_file",
+        "id" : "SoundFX/spanish/FX.mid",
+      ],
+      "array" : [
+        "string" : "french_fx_midi_file",
+        "id" : "SoundFX/french/FX.mid",
+      ],
+      "array" : [
+        "string" : "german_fx_midi_file",
+        "id" : "SoundFX/german/FX.mid",
+      ],
+      "array" : [
+        "string" : "italian_fx_midi_file",
+        "id" : "SoundFX/italian/FX.mid",
+      ],
+    ],
+    "array" : [
+      "string" : "gfx",
+      "array" : [
+        "string" : "difficulty_scale_tweaks",
+        "float" : 1.000000,
+        "float" : 1.000000,
+        "float" : 0.930000,
+        "float" : 0.800000,
+        "float" : 0.800000,
+      ],
+    ],
+    "array" : [
+      "string" : "init",
+    ],
+    "array" : [
+      "string" : "game",
+      "array" : [
+        "string" : "zero_rand_seed",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "stats",
+      ],
+      "array" : [
+        "string" : "guide_ticks",
+        "string" : "TRUE",
+      ],
+      "array" : [
+        "string" : "rotation_repeat_initial_delay_ms",
+        "int" : 100000,
+      ],
+      "array" : [
+        "string" : "rotation_repeat_delay_ms",
+        "int" : 100000,
+      ],
+      "array" : [
+        "string" : "scratcher_quantization_ticks",
+        "int" : 240,
+      ],
+      "array" : [
+        "string" : "scratcher_sample_quantization_ticks",
+        "int" : 120,
+      ],
+      "array" : [
+        "string" : "game_fx_bank_slot",
+        "int" : 0,
+      ],
+      "array" : [
+        "string" : "multi_game_fx_bank_file",
+        "id" : "multigameFX.bnk",
+      ],
+      "array" : [
+        "string" : "solo_game_fx_bank_file",
+        "id" : "gameFX.bnk",
+      ],
+      "array" : [
+        "string" : "win_fx_bank_file",
+        "id" : "SoundFX/gameWinFX.bnk",
+      ],
+      "array" : [
+        "string" : "cheer_fx_bank_file",
+        "id" : "SoundFX/gameCheerFX.bnk",
+      ],
+      "array" : [
+        "string" : "strand_bars",
+        "int" : 12,
+        "int" : 5,
+        "int" : 3,
+        "int" : 2,
+      ],
+      "array" : [
+        "string" : "strand_bars_nightmare",
+        "int" : 7,
+        "int" : 3,
+        "int" : 2,
+        "int" : 1,
+      ],
+      "array" : [
+        "string" : "strand_bars_dynamic_gap",
+        "int" : 2,
+        "int" : 1,
+        "int" : 1,
+        "int" : 1,
+        "int" : 0,
+      ],
+      "array" : [
+        "string" : "slop_ms",
+        "int" : 100,
+      ],
+      "array" : [
+        "string" : "debounce_window",
+        "int" : 85,
+      ],
+      "array" : [
+        "string" : "bar_capture_threshold",
+        "int" : 2,
+      ],
+      "array" : [
+        "string" : "game_calibration_speed",
+        "float" : 0.100000,
+      ],
+      "array" : [
+        "string" : "game_calibration_max_ms",
+        "int" : 125,
+      ],
+      "array" : [
+        "string" : "av_calibration_step_ms",
+        "float" : 16.666666,
+      ],
+      "array" : [
+        "string" : "av_calibration_max_ms",
+        "int" : 150,
+      ],
+      "array" : [
+        "string" : "av_calibration_min_ms",
+        "int" : -150,
+      ],
+      "array" : [
+        "string" : "points",
+        "array" : [
+          "string" : "gem",
+          "array" : [
+            "int" : 1920,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 960,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 480,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 240,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 120,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+          ],
+        ],
+        "array" : [
+          "string" : "og_gem",
+          "array" : [
+            "int" : 1920,
+            "int" : 4,
+          ],
+          "array" : [
+            "int" : 960,
+            "int" : 5,
+          ],
+          "array" : [
+            "int" : 480,
+            "int" : 6,
+          ],
+          "array" : [
+            "int" : 240,
+            "int" : 7,
+          ],
+          "array" : [
+            "int" : 120,
+            "int" : 8,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 9,
+          ],
+        ],
+        "array" : [
+          "string" : "phrase_scale",
+          "int" : 1,
+        ],
+        "array" : [
+          "string" : "autocatcher",
+          "int" : 3,
+          "int" : 5,
+          "int" : 7,
+          "int" : 10,
+          "int" : 10,
+        ],
+        "array" : [
+          "string" : "freestyle",
+          "int" : 5,
+          "int" : 5,
+          "int" : 5,
+          "int" : 5,
+          "int" : 5,
+        ],
+      ],
+      "array" : [
+        "string" : "streak_multiplier_max_multi",
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "streak_multiplier_max_solo",
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "force_feedback_enabled",
+        "string" : "TRUE",
+      ],
+      "array" : [
+        "string" : "beat_duration_ms",
+        "int" : 100,
+      ],
+      "array" : [
+        "string" : "beat_lead_ms",
+        "int" : 30,
+      ],
+      "array" : [
+        "string" : "mixer",
+        "array" : [
+          "string" : "low_volumes",
+          "float" : -0.500000,
+          "float" : -0.500000,
+          "float" : -1.250000,
+          "float" : -2.500000,
+          "float" : -3.500000,
+          "int" : -4,
+        ],
+        "array" : [
+          "string" : "low_volumes_freestyle",
+          "int" : 0,
+          "float" : -0.500000,
+          "float" : -1.250000,
+          "int" : -2,
+          "int" : -3,
+        ],
+        "array" : [
+          "string" : "fx_volumes",
+          "float" : -1.500000,
+          "int" : -1,
+          "float" : -0.700000,
+          "float" : -0.350000,
+          "int" : 0,
+        ],
+        "array" : [
+          "string" : "active_track_db",
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+          "float" : 0.000000,
+        ],
+        "array" : [
+          "string" : "other_track_db",
+          "float" : -5.000000,
+        ],
+        "array" : [
+          "string" : "solo_mute_track_db",
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+        ],
+        "array" : [
+          "string" : "multi_mute_track_db",
+          "float" : -10.000000,
+          "float" : -10.000000,
+          "float" : -10.000000,
+          "float" : -10.000000,
+          "float" : -10.000000,
+          "float" : -10.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+          "float" : -100.000000,
+        ],
+        "array" : [
+          "string" : "victorylap_volume",
+          "float" : -0.500000,
+        ],
+        "array" : [
+          "string" : "ramp_ms",
+          "int" : 1000,
+        ],
+        "array" : [
+          "string" : "mute_fade_ms",
+          "int" : 100,
+        ],
+        "array" : [
+          "string" : "freestyle_fade_ticks",
+          "int" : 1920,
+        ],
+      ],
+      "array" : [
+        "string" : "axe_softfx_volume",
+        "float" : 2.000000,
+      ],
+      "array" : [
+        "string" : "play_all_gems",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "fake_input",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "no_capture",
+        "string" : "FALSE",
+      ],
+      "array" : [
+        "string" : "streaks_enabled",
+        "string" : "TRUE",
+      ],
+      "array" : [
+        "string" : "initial_juice",
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+      ],
+      "array" : [
+        "string" : "checkpoint_juice",
+        "float" : 8.000000,
+        "float" : 2.000000,
+        "float" : 2.000000,
+        "float" : 2.000000,
+        "float" : 2.000000,
+      ],
+      "array" : [
+        "string" : "capture_juice",
+        "float" : 1.000000,
+        "float" : 1.000000,
+        "float" : 1.000000,
+        "float" : 1.000000,
+        "float" : 0.000000,
+      ],
+      "array" : [
+        "string" : "damage_juice",
+        "float" : -1.000000,
+        "float" : -1.000000,
+        "float" : -1.000000,
+        "float" : -1.000000,
+        "float" : -1.000000,
+      ],
+      "array" : [
+        "string" : "checkpoint_fail_juice",
+        "float" : -4.000000,
+        "float" : -4.000000,
+        "float" : -4.000000,
+        "float" : -4.000000,
+        "float" : -4.000000,
+      ],
+      "array" : [
+        "string" : "juice_meter_max",
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+        "float" : 8.000000,
+      ],
+      "array" : [
+        "string" : "damage_invuln_time_ms",
+        "int" : 750,
+      ],
+      "array" : [
+        "string" : "checkpoint_bars",
+        "int" : 2,
+      ],
+      "array" : [
+        "string" : "checkpoint_points",
+        "int" : 10,
+        "int" : 10,
+        "int" : 10,
+        "int" : 10,
+        "int" : 10,
+      ],
+      "array" : [
+        "string" : "boss_gate_streak_requirement",
+        "int" : 2,
+        "int" : 3,
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "boss_gate_break_bars",
+        "int" : 2,
+      ],
+      "array" : [
+        "string" : "powerup_prob_solo",
+        "float" : 1.000000,
+      ],
+      "array" : [
+        "string" : "powerup_prob_boss",
+        "int" : 0,
+        "int" : 0,
+        "int" : 0,
+      ],
+      "array" : [
+        "string" : "powerup_prob_multi",
+        "float" : 0.300000,
+        "float" : 1.000000,
+      ],
+      "array" : [
+        "string" : "powerup_dist",
+        "array" : [
+          "string" : "autocatcher",
+          "array" : [
+            "int" : 5,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+        "array" : [
+          "string" : "multiplier",
+          "array" : [
+            "int" : 2,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+        "array" : [
+          "string" : "slowdown",
+          "array" : [
+            "int" : 5,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+        "array" : [
+          "string" : "bumper",
+          "array" : [
+            "int" : 0,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+        "array" : [
+          "string" : "freestyle",
+          "array" : [
+            "int" : 5,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 1,
+            "int" : 2,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 2,
+            "int" : 2,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 2,
+            "int" : 2,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+        "array" : [
+          "string" : "crippler",
+          "array" : [
+            "int" : 0,
+            "int" : -1,
+            "int" : -1,
+            "int" : -1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 1,
+            "int" : 2,
+          ],
+          "array" : [
+            "int" : 1,
+            "int" : 1,
+            "int" : 0,
+            "int" : 1,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+          "array" : [
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+            "int" : 0,
+          ],
+        ],
+      ],
+      "array" : [
+        "string" : "slowdown_start_ticks",
+        "int" : 960,
+      ],
+      "array" : [
+        "string" : "slowdown_stop_ticks",
+        "int" : 960,
+      ],
+      "array" : [
+        "string" : "slowdown_duration_bars",
+        "int" : 3,
+      ],
+      "array" : [
+        "string" : "slowdown_speed",
+        "float" : 0.750000,
+      ],
+      "array" : [
+        "string" : "multiplier_value",
+        "int" : 2,
+      ],
+      "array" : [
+        "string" : "multiplier_duration_bars",
+        "int" : 5,
+      ],
+      "array" : [
+        "string" : "freestyle_duration_bars_solo",
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "freestyle_duration_bars_multi_net",
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "crippler_duration_bars",
+        "int" : 4,
+      ],
+      "array" : [
+        "string" : "skill_thresholds",
+        "float" : 150.000000,
+        "float" : 400.000000,
+        "float" : 700.000000,
+      ],
+      "array" : [
+        "string" : "empty_threshold",
+        "float" : 0.200000,
+      ],
+      "array" : [
+        "string" : "outro_durations",
+        "int" : 9,
+        "int" : 10,
+        "int" : 10,
+        "int" : 10,
+      ],
+    ],
+  ],
+},
