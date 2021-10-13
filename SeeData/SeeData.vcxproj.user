@@ -4,4 +4,8 @@
     <LocalDebuggerCommandArguments>../Data/locale_keep.txt</LocalDebuggerCommandArguments>
     <RemoteDebuggerCommandArguments>../Data/locale_keep.txt</RemoteDebuggerCommandArguments>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>../Data/locale_keep.txt</LocalDebuggerCommandArguments>
+    <RemoteDebuggerCommandArguments>../Data/locale_keep.txt</RemoteDebuggerCommandArguments>
+  </PropertyGroup>
 </Project>

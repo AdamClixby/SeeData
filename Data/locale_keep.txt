@@ -774,7 +774,7 @@ BONUS",
       "id" : "Copyright 2016 Sony Computer Entertainment America LLC.
 Amplitude is a trademark of Sony Computer Entertainment America LLC.
 Harmonix and all related titles and logos are trademarks of Harmonix Music Systems, Inc.
-Unpacked, modded and repacked by Nortiest.",
+All rights reserved. Amplitude developed by Harmonix Music Systems, Inc.",
     ],
     "array" : [
       "string" : "main_help",
