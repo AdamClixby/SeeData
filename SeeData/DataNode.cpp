@@ -356,8 +356,15 @@ bool cDataNodeString::WriteToBinaryStream( char*& lpStreamPtr, const char* lpStr
     {
         return false;
     }
-    memcpy( lpStreamPtr, mString.c_str(), liStringLength );
-    lpStreamPtr += liStringLength;
+
+    for( int ii = 0; ii < liStringLength && lpStreamPtr < lpStreamEnd; ++ii )
+    {
+        if( mString[ ii ] == '\\' )
+        {
+            continue;
+        }
+        *lpStreamPtr++ = mString[ ii ];
+    }
 
     return true;
 }
