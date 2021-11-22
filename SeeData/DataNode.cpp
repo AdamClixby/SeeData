@@ -350,6 +350,7 @@ bool cDataNodeString::WriteToBinaryStream( char*& lpStreamPtr, const char* lpStr
     int liStringLength = mString.length();
 
     ValidateStreamWritePtr( int );
+    int* lpLengthPtr = (int*)lpStreamPtr;
     ::WriteToBinaryStream< int >( lpStreamPtr, liStringLength );
 
     if( lpStreamPtr + liStringLength > lpStreamEnd )
@@ -359,8 +360,9 @@ bool cDataNodeString::WriteToBinaryStream( char*& lpStreamPtr, const char* lpStr
 
     for( int ii = 0; ii < liStringLength && lpStreamPtr < lpStreamEnd; ++ii )
     {
-        if( mString[ ii ] == '\\' )
+        if( mString[ ii ] == '\\' && mString[ ii + 1 ] == '\"' )
         {
+            (*lpLengthPtr)--;
             continue;
         }
         *lpStreamPtr++ = mString[ ii ];
