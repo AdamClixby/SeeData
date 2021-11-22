@@ -35,14 +35,10 @@
 Data/*
 SeeData/Release/*
 SeeData/Debug/*
+Release/*
+Debug/*
 .vs/SeeData/v15/.suo
 .vs/SeeData/v15/Browse.VC.db
 .vs/SeeData/v15/ipch/AutoPCH/2272c6eda945156d/DATAFILE.ipch
 Data/locale_keep.dta_dta_ps3
 Data/locale_keep.txt
-Release/SeeData.iobj
-Release/SeeData.ipdb
-Release/SeeData.pdb
-SeeData/Release/SeeData.log
-SeeData/Release/vc141.pdb
-SeeData/SeeData.vcxproj.user
