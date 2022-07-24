@@ -27,12 +27,8 @@
       "Command": "../Data/locale_keep.txt"
     },
     {
-      "Id": "5d3fc48e-049a-47cf-ba7e-7eafdb88dafa",
-      "Command": "../Data/pink.moggsong_dta_ps4"
-    },
-    {
       "Id": "72632cb4-4c3e-47d8-a2f3-1b924aa1fed3",
-      "Command": "../Data/pink.txt"
+      "Command": "../Data/tut0.moggsong_dta_ps3"
     }
   ]
 }

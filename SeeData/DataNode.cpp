@@ -75,6 +75,7 @@ cDataNode* cDataNode::Create( eNodeType leNodeType )
         case ENodeType_Float:
             return new cDataNodeAtomic< float >( leNodeType );
 
+        case ENodeType_Text:
         case ENodeType_String:
         case ENodeType_Id:
         case ENodeType_IncludeFile:
@@ -106,6 +107,7 @@ void cDataNode::InitialiseNodeMaps()
     Link( "include", ENodeType_IncludeFile );
     Link( "define", ENodeType_Define );
     Link( "float", ENodeType_Float );
+    Link( "text", ENodeType_Text );
     Link( "string", ENodeType_String );
     Link( "id", ENodeType_Id );
     Link( "array", ENodeType_Tree1 );
@@ -125,6 +127,7 @@ const char* cDataNode::GetValueAsString( int leNodeType, bool lbUseEnumNames )
         case ENodeType_IncludeFile:
         case ENodeType_Define:
         case ENodeType_Float:
+        case ENodeType_Text:
         case ENodeType_String:
         case ENodeType_Id:
         case ENodeType_Tree1:

@@ -114,6 +114,7 @@ bool AdvanceToCharacter( char*& lpStreamPtr, const char* lpStreamEnd, char lChar
 enum eNodeType {
     ENodeType_Integer0 = 0,
     ENodeType_Float = 1,
+    ENodeType_Text = 2,
     ENodeType_String = 5,
     ENodeType_Integer6 = 6,
     ENodeType_Integer8 = 8,
